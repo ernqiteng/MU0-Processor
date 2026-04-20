@@ -56,9 +56,3 @@ The lose screen shows the player's score (number of boxes successfully dodged, 0
 | `lab4.s.kmd` | Full game source (assembled) |
 | `exercise4.s` | Partial/earlier exercise version |
 | `exercise4.s.kmd` | Assembled output for exercise 4 |
-
-## Module
-
-COMP12111 Fundamentals of Computer Engineering — Lab 4  
-University of Manchester, December 2025  
-Author: Ern Qi Teng
