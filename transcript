@@ -1,0 +1,324 @@
+# //  Questa Sim-64
+# //  Version 2023.4 linux_x86_64 Oct  9 2023
+# //
+# //  Copyright 1991-2023 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+#  do /cadtools5/questa_custom/comp121/start_vsim.tcl /cadtools5/questa_custom 0
+# /cadtools5/questa_custom
+# 0
+# /home/p86342et/Questa/COMP12111
+# .main_pane
+# fpgaLoad
+# after#464
+# Info: Startup continues, no compilation required.
+# Deleting all library units
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:32 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Memory.sv 
+# -- Compiling module MU0_Memory
+# 
+# Top level modules:
+# 	MU0_Memory
+# End time: 13:14:32 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:32 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Control.sv 
+# -- Compiling module MU0_Control
+# 
+# Top level modules:
+# 	MU0_Control
+# End time: 13:14:33 on Dec 01,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:33 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Mux16.sv 
+# -- Compiling module MU0_Mux16
+# 
+# Top level modules:
+# 	MU0_Mux16
+# End time: 13:14:33 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:34 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0.sv 
+# -- Compiling module MU0
+# 
+# Top level modules:
+# 	MU0
+# End time: 13:14:34 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:34 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Flags.sv 
+# -- Compiling module MU0_Flags
+# 
+# Top level modules:
+# 	MU0_Flags
+# End time: 13:14:34 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:34 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Board.sv 
+# -- Compiling module MU0_Board
+# 
+# Top level modules:
+# 	MU0_Board
+# End time: 13:14:34 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:34 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Mux12_Testbench.sv 
+# -- Compiling module MU0_Mux12_Testbench
+# 
+# Top level modules:
+# 	MU0_Mux12_Testbench
+# End time: 13:14:35 on Dec 01,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:35 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Reg16_Testbench.sv 
+# -- Compiling module MU0_Reg16_Testbench
+# 
+# Top level modules:
+# 	MU0_Reg16_Testbench
+# End time: 13:14:35 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:35 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Datapath.sv 
+# -- Compiling module MU0_Datapath
+# 
+# Top level modules:
+# 	MU0_Datapath
+# End time: 13:14:36 on Dec 01,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:36 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Mux12.sv 
+# -- Compiling module MU0_Mux12
+# 
+# Top level modules:
+# 	MU0_Mux12
+# End time: 13:14:36 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:36 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Mux16_Testbench.sv 
+# -- Compiling module MU0_Mux16_Testbench
+# 
+# Top level modules:
+# 	MU0_Mux16_Testbench
+# End time: 13:14:36 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:37 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Reg12_Testbench.sv 
+# -- Compiling module MU0_Reg12_Testbench
+# 
+# Top level modules:
+# 	MU0_Reg12_Testbench
+# End time: 13:14:37 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:37 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Reg16.sv 
+# -- Compiling module MU0_Reg16
+# 
+# Top level modules:
+# 	MU0_Reg16
+# End time: 13:14:37 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:37 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Reg12.sv 
+# -- Compiling module MU0_Reg12
+# 
+# Top level modules:
+# 	MU0_Reg12
+# End time: 13:14:38 on Dec 01,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:38 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Alu_Testbench.sv 
+# -- Compiling module MU0_Alu_Testbench
+# 
+# Top level modules:
+# 	MU0_Alu_Testbench
+# End time: 13:14:38 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:38 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Alu.sv 
+# -- Compiling module MU0_Alu
+# 
+# Top level modules:
+# 	MU0_Alu
+# End time: 13:14:39 on Dec 01,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Note: Multiple occurrences of ini variable Show_source are found, only first occurence will be considered.
+# QuestaSim-64 vlog 2023.4 Compiler 2023.10 Oct  9 2023
+# Start time: 13:14:39 on Dec 01,2025
+# vlog -reportprogress 300 -lint -cover bcsxf ./src/Ex3/MU0_Testbench.sv 
+# -- Compiling module MU0_Testbench
+# 
+# Top level modules:
+# 	MU0_Testbench
+# End time: 13:14:39 on Dec 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0, Suppressed Warnings: 1
+# vsim -voptargs="+acc" Ex3.MU0_Board GLIB.glbl -L BoardLib -L Ex1 
+# Start time: 13:14:50 on Dec 01,2025
+# Loading libssl.so
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Warning: (vopt-2009) At least one design unit was compiled with optimization level -O0 or -O1.
+# Use vdir -l command to find such design units.
+# ** Note: (vopt-143) Recognized 2 FSMs in module "AckieV2(fast)".
+# ** Note: (vopt-143) Recognized 2 FSMs in module "Uart_S7(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Keyboard(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Segments_Scan(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Board_reset(fast)".
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.MU0_Board(fast)
+# Loading BoardLib.BoardV3(fast)
+# Loading BoardLib.Board_reset(fast)
+# Loading unisims.ICAPE2(fast)
+# Loading unisims.SIM_CONFIGE2(fast)
+# Loading BoardLib.Clocks(fast)
+# Loading BoardLib.Keyboard(fast)
+# Loading BoardLib.Segments_Scan(fast)
+# Loading BoardLib.Uart_S7(fast)
+# Loading BoardLib.AckieV2(fast)
+# Loading work.MU0(fast)
+# Loading work.MU0_Datapath(fast)
+# Loading work.MU0_Reg12(fast)
+# Loading work.MU0_Reg16(fast)
+# Loading work.MU0_Mux12(fast)
+# Loading work.MU0_Mux16(fast)
+# Loading work.MU0_Alu(fast)
+# Loading work.MU0_Flags(fast)
+# Loading work.MU0_Control(fast)
+# Loading unisims.AND4B3(fast)
+# Loading unisims.AND4B1(fast)
+# Loading unisims.AND4(fast)
+# Loading unisims.AND4B2(fast)
+# Loading unisims.BUF(fast)
+# Loading unisims.FDC(fast)
+# Loading unisims.AND2(fast)
+# Loading unisims.INV(fast)
+# Loading unisims.AND2B1(fast)
+# Loading unisims.OR4(fast)
+# Loading unisims.OR2B1(fast)
+# Loading unisims.OR2(fast)
+# Loading unisims.OR3(fast)
+# Loading work.MU0_Memory(fast)
+# Loading GLIB.glbl(fast)
+# Loading unisims.AND3B2(fast)
+# Loading unisims.AND3B1(fast)
+# Loading unisims.AND3(fast)
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit5'. The port definition is at: ./src/Ex3/MU0_Memory.sv(67).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit4'. The port definition is at: ./src/Ex3/MU0_Memory.sv(68).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit3'. The port definition is at: ./src/Ex3/MU0_Memory.sv(69).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit2'. The port definition is at: ./src/Ex3/MU0_Memory.sv(70).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit1'. The port definition is at: ./src/Ex3/MU0_Memory.sv(71).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit0'. The port definition is at: ./src/Ex3/MU0_Memory.sv(72).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# End time: 13:14:57 on Dec 01,2025, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 8, Suppressed Warnings: 1
+# vsim -voptargs="+acc" Ex3.MU0_Board GLIB.glbl -L BoardLib 
+# Start time: 13:17:06 on Dec 01,2025
+# Loading libssl.so
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Warning: (vopt-2009) At least one design unit was compiled with optimization level -O0 or -O1.
+# Use vdir -l command to find such design units.
+# ** Note: (vopt-143) Recognized 2 FSMs in module "AckieV2(fast)".
+# ** Note: (vopt-143) Recognized 2 FSMs in module "Uart_S7(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Keyboard(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Segments_Scan(fast)".
+# ** Note: (vopt-143) Recognized 1 FSM in module "Board_reset(fast)".
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.MU0_Board(fast)
+# Loading BoardLib.BoardV3(fast)
+# Loading BoardLib.Board_reset(fast)
+# Loading unisims.ICAPE2(fast)
+# Loading unisims.SIM_CONFIGE2(fast)
+# Loading BoardLib.Clocks(fast)
+# Loading BoardLib.Keyboard(fast)
+# Loading BoardLib.Segments_Scan(fast)
+# Loading BoardLib.Uart_S7(fast)
+# Loading BoardLib.AckieV2(fast)
+# Loading work.MU0(fast)
+# Loading work.MU0_Datapath(fast)
+# Loading work.MU0_Reg12(fast)
+# Loading work.MU0_Reg16(fast)
+# Loading work.MU0_Mux12(fast)
+# Loading work.MU0_Mux16(fast)
+# Loading work.MU0_Alu(fast)
+# Loading work.MU0_Flags(fast)
+# Loading work.MU0_Control(fast)
+# Loading unisims.AND4B3(fast)
+# Loading unisims.AND4B1(fast)
+# Loading unisims.AND4(fast)
+# Loading unisims.AND4B2(fast)
+# Loading unisims.BUF(fast)
+# Loading unisims.FDC(fast)
+# Loading unisims.AND2(fast)
+# Loading unisims.INV(fast)
+# Loading unisims.AND2B1(fast)
+# Loading unisims.OR4(fast)
+# Loading unisims.OR2B1(fast)
+# Loading unisims.OR2(fast)
+# Loading unisims.OR3(fast)
+# Loading work.MU0_Memory(fast)
+# Loading GLIB.glbl(fast)
+# Loading unisims.AND3B2(fast)
+# Loading unisims.AND3B1(fast)
+# Loading unisims.AND3(fast)
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit5'. The port definition is at: ./src/Ex3/MU0_Memory.sv(67).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit4'. The port definition is at: ./src/Ex3/MU0_Memory.sv(68).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit3'. The port definition is at: ./src/Ex3/MU0_Memory.sv(69).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit2'. The port definition is at: ./src/Ex3/MU0_Memory.sv(70).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit1'. The port definition is at: ./src/Ex3/MU0_Memory.sv(71).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+# ** Warning: (vsim-3015) [PCDPC] - Port size (14) does not match connection size (15) for port 'digit0'. The port definition is at: ./src/Ex3/MU0_Memory.sv(72).
+#    Time: 0 ps  Iteration: 0  Instance: /MU0_Board/MEM1 File: ./src/Ex3/MU0_Board.sv Line: 108
+quit
+# End time: 13:54:28 on Dec 01,2025, Elapsed time: 0:37:22
+# Errors: 0, Warnings: 8, Suppressed Warnings: 1

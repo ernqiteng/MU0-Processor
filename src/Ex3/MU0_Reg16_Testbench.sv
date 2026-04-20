@@ -1,0 +1,115 @@
+// COMP12111 Exercise 3 - MU0_Reg16 Testbench
+// Version 2024. P W Nutter
+//
+// Testbench for the 16-bit Register
+// DUT is instantiated for you.
+// Need to complete the test stimulus.
+//
+// Comments:
+// tests the 16 bit register in simulation
+// Updated November 2025
+// By Ern Qi Teng
+//
+
+// Do not touch the following lines as they required for simulation 
+`timescale  1ns / 100ps 
+
+module MU0_Reg16_Testbench();
+
+//  Internal signals have been defined for you
+//  and must be used for this excercise 
+//  DO NOT alter the names of these signals 
+
+logic   [15:0] D;
+logic          Clk;
+logic          Reset;
+logic          En; //clock enable
+logic   [15:0] Q;
+
+
+// The design has been instantiated for you below:
+
+MU0_Reg16 top(.D(D), .Clk(Clk), .Reset(Reset), .En(En), .Q(Q) );
+
+
+/* Comment block
+
+#VALUE      creates a delay of VALUE ps
+a=VALUE;    sets the value of input 'a' to VALUE
+$stop;      tells the simulator to stop
+
+*/
+
+// Clk setup
+initial Clk = 1'b0; //initialise clock to 0 at time 0
+always
+	begin
+	#50
+	Clk = ~Clk;
+	end
+//period is 2x 50ns = 100ns
+
+initial
+begin
+// Enter you stimulus below this line
+// -------------------------------------------------------
+	#100
+	Reset = 0;
+	En = 1; //enable is high
+
+	#100
+	D = 16'h1111;
+	//expect Q = 16'h1111
+	
+	#100
+	En = 0; //enable is low
+	D = 16'h2222;
+	//expect Q = 16'h1111		
+
+	#100
+	En = 1;
+	D = 16'h3333;
+	Reset = 1;
+	//expect Q = 16'h0000
+
+	#100
+	En = 1;
+	D = 16'hAAAA;	
+	//expect Q = 16'h0000
+	
+	#100
+	Reset = 0;
+	D = 16'hAAAA;	
+	//expect Q = 16'hAAAA
+	
+	#100
+	D = 16'hFFFF;	
+	//expect Q = 16'hFFFF
+	
+	#100
+	En = 0;
+	D = 16'hAAAA;	
+	//expect Q = 16'hFFFF
+	
+	#100
+	Reset = 1;
+	//expect Q = 16'h0000
+	
+	#100
+	Reset = 0;
+	En = 1;
+	D = 16'h5555;
+	//expect Q = 16'h5555
+
+
+
+
+// -------------------------------------------------------
+// Please make sure your stimulus is above this line
+
+#100 $stop;
+end
+
+
+endmodule
+ 

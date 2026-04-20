@@ -1,0 +1,575 @@
+KMD
+00000000:       ; ; ENGINEERING LAB 4
+00000000:       ; ; Updated December 2025
+00000000:       ; ; By Ern Qi Teng
+00000000:       ; ; creates a game where the user has to dodge the boxes coming towards them
+00000000:       ; ; if they collide with a box, they lose
+00000000:       ; ; there are 10 boxes to dodge
+00000000:       ; ; if the user is successful at dodging all 10 boxes, they win
+00000000:       ; 
+00000000:       ; ;add sounds and lights
+00000000:       ; 
+00000000:       ; ORG &0000
+00000000:       ; ;------------------------------------------DISPLAY RESET-----------------------------------------
+00000000:       ; reset
+00000000:       ; ;reset display, set all to 0
+00000000: 012B  ; LDA zero
+00000001: 1FF5  ; STA digit0
+00000002: 012B  ; LDA zero
+00000003: 1FF6  ; STA digit1
+00000004: 012B  ; LDA zero
+00000005: 1FF7  ; STA digit2
+00000006: 012B  ; LDA zero
+00000007: 1FF8  ; STA digit3
+00000008: 012B  ; LDA zero
+00000009: 1FF9  ; STA digit4
+0000000A: 012B  ; LDA zero
+0000000B: 1FFA  ; STA digit5
+0000000C:       ; 
+0000000C: 0118  ; LDA amber
+0000000D: 1FFF  ; STA trafficlights
+0000000E:       ; 
+0000000E: 011D  ; LDA dash
+0000000F: 1FFA  ; STA digit5
+00000010: 0120  ; LDA s
+00000011: 1FF9  ; STA digit4
+00000012: 0122  ; LDA t
+00000013: 1FF8  ; STA digit3
+00000014: 0123  ; LDA a
+00000015: 1FF7  ; STA digit2
+00000016: 0124  ; LDA r
+00000017: 1FF6  ; STA digit1
+00000018: 0122  ; LDA t
+00000019: 1FF5  ; STA digit0
+0000001A:       ; 
+0000001A:       ; start
+0000001A: 0FF0  ; LDA buttons
+0000001B: 312C  ; SUB one
+0000001C: 601A  ; JNE start
+0000001D:       ; 
+0000001D: 012B  ; LDA zero
+0000001E: 1FF5  ; STA digit0
+0000001F: 012B  ; LDA zero
+00000020: 1FF6  ; STA digit1
+00000021: 012B  ; LDA zero
+00000022: 1FF7  ; STA digit2
+00000023: 012B  ; LDA zero
+00000024: 1FF8  ; STA digit3
+00000025: 012B  ; LDA zero
+00000026: 1FF9  ; STA digit4
+00000027: 012B  ; LDA zero
+00000028: 1FFA  ; STA digit5
+00000029:       ; 
+00000029:       ; ;displays dinosaur
+00000029: 012B  ; LDA zero
+0000002A: 1129  ; STA dino ;flag for where dino is
+0000002B: 0125  ; LDA dinodown
+0000002C: 1FFA  ; STA digit5
+0000002D:       ; 
+0000002D:       ; ;---------------------------------------------COUNTDOWN----------------------------------------------
+                ; -
+0000002D:       ; ;displays 3
+0000002D: 0139  ; LDA display3
+0000002E: 1FF5  ; STA digit0
+0000002F:       ; 
+0000002F:       ; countdowndelay
+0000002F: 012A  ;     LDA delay
+00000030:       ;     countdownloop
+00000030: 312C  ;     SUB one
+00000031: 6030  ;     JNE countdownloop
+00000032:       ; 
+00000032: 0142  ;     LDA currentdelaycount
+00000033: 312C  ;     SUB one
+00000034: 1142  ;     STA currentdelaycount
+00000035: 602F  ;     JNE countdowndelay
+00000036:       ; 
+00000036: 0141  ; LDA delaycount
+00000037: 1142  ; STA currentdelaycount
+00000038:       ; 
+00000038:       ; ;displays 2
+00000038: 0138  ; LDA display2
+00000039: 1FF5  ; STA digit0
+0000003A:       ; 
+0000003A:       ; countdowndelay2
+0000003A: 012A  ;     LDA delay
+0000003B:       ;     countdownloop2
+0000003B: 312C  ;     SUB one
+0000003C: 603B  ;     JNE countdownloop2
+0000003D:       ; 
+0000003D: 0142  ;     LDA currentdelaycount
+0000003E: 312C  ;     SUB one
+0000003F: 1142  ;     STA currentdelaycount
+00000040: 603A  ;     JNE countdowndelay2
+00000041:       ; 
+00000041: 0141  ; LDA delaycount
+00000042: 1142  ; STA currentdelaycount
+00000043:       ; 
+00000043:       ; ;displays 1
+00000043: 0137  ; LDA display1
+00000044: 1FF5  ; STA digit0
+00000045:       ; 
+00000045:       ; countdowndelay3
+00000045: 012A  ;     LDA delay
+00000046:       ;     countdownloop3
+00000046: 312C  ;     SUB one
+00000047: 6046  ;     JNE countdownloop3
+00000048:       ; 
+00000048: 0142  ;     LDA currentdelaycount
+00000049: 312C  ;     SUB one
+0000004A: 1142  ;     STA currentdelaycount
+0000004B: 6045  ;     JNE countdowndelay3
+0000004C:       ; 
+0000004C: 0141  ; LDA delaycount
+0000004D: 1142  ; STA currentdelaycount
+0000004E:       ; 
+0000004E:       ; ;--------------------------------------------BOXES--------------------------------------------
+0000004E:       ; 
+0000004E: 0140  ; LDA score
+0000004F: 212C  ; ADD one
+00000050: 1140  ; STA score
+00000051:       ; 
+00000051:       ; ;displays first box
+00000051: 0127  ; LDA boxdown
+00000052: 1FF5  ; STA digit0
+00000053:       ; 
+00000053:       ; startdelay
+00000053: 012A  ;     LDA delay
+00000054:       ;     loop
+00000054: 312C  ;     SUB one
+00000055: 6054  ;     JNE loop
+00000056:       ; 
+00000056: 0142  ;     LDA currentdelaycount
+00000057: 312C  ;     SUB one
+00000058: 1142  ;     STA currentdelaycount
+00000059: 6053  ;     JNE startdelay
+0000005A:       ; 
+0000005A: 0141  ; LDA delaycount
+0000005B: 1142  ; STA currentdelaycount
+0000005C:       ; 
+0000005C:       ; ;check if the dino needs to be moved
+0000005C:       ; ;checks if the 1 has been pressed
+0000005C: 0FF2  ; LDA keypad
+0000005D: 312E  ; SUB three
+0000005E: 506A  ; JGE moveboxes ;neither button pressed so don't need to move dino, jump to moving boxes
+0000005F: 212C  ; ADD one
+00000060: 6066  ; JNE movedinoup ;if it is 0, 1 was pressed
+00000061:       ; 
+00000061:       ; ;else move dino down
+00000061: 012B  ; LDA zero
+00000062: 1129  ; STA dino ;flag for where dino is
+00000063: 0125  ; LDA dinodown
+00000064: 1FFA  ; STA digit5
+00000065: 406A  ; JMP moveboxes
+00000066:       ; 
+00000066:       ; movedinoup
+00000066: 012C  ; LDA one
+00000067: 1129  ; STA dino
+00000068: 0126  ; LDA dinoup
+00000069: 1FFA  ; STA digit5
+0000006A:       ; 
+0000006A:       ; moveboxes
+0000006A:       ; ;move boxes down
+0000006A: 0FF8  ; LDA digit3
+0000006B: 1FF9  ; STA digit4
+0000006C: 0FF7  ; LDA digit2
+0000006D: 1FF8  ; STA digit3
+0000006E: 0FF6  ; LDA digit1
+0000006F: 1FF7  ; STA digit2
+00000070: 0FF5  ; LDA digit0
+00000071: 1FF6  ; STA digit1
+00000072: 012B  ; LDA zero
+00000073: 1FF5  ; STA digit0
+00000074:       ; 
+00000074: 0144  ; LDA currentboxcount
+00000075: 312C  ; SUB one
+00000076: 1144  ; STA currentboxcount
+00000077: 6053  ; JNE startdelay
+00000078:       ; 
+00000078: 0143  ; LDA boxcount
+00000079: 1144  ; STA currentboxcount
+0000007A:       ; 
+0000007A:       ; ;-----------------------------------------------------when box reaches dino--------------------------
+                ; ------------
+0000007A:       ; 
+0000007A:       ; startdelay2
+0000007A: 012A  ;     LDA delay
+0000007B:       ;     loop2
+0000007B: 312C  ;     SUB one
+0000007C: 607B  ;     JNE loop2
+0000007D:       ; 
+0000007D: 0142  ;     LDA currentdelaycount
+0000007E: 312C  ;     SUB one
+0000007F: 1142  ;     STA currentdelaycount
+00000080: 607A  ;     JNE startdelay2
+00000081:       ; 
+00000081: 0141  ; LDA delaycount
+00000082: 1142  ; STA currentdelaycount
+00000083:       ; 
+00000083:       ; checkforloss
+00000083: 0FF9  ;     LDA digit4
+00000084: 312C  ;     SUB one
+00000085: 3127  ;     SUB boxdown
+00000086: 508A  ;     JGE checkifdinoup;box is up
+00000087:       ;     ;else box is down so we check if the dino is down
+00000087: 0129  ;     LDA dino
+00000088: 608C  ;     JNE nextbox ;if the dino is 1, then we continue
+00000089: 40D0  ;     JMP lose ;otherwise we lose
+0000008A:       ; 
+0000008A:       ; checkifdinoup
+0000008A:       ;     ;the box is up so we check if the dino is up
+0000008A: 0129  ;     LDA dino
+0000008B: 60D0  ;     JNE lose ;if it is 1, lose
+0000008C:       ; 
+0000008C:       ; ;---------------------------------------------DISPLAYS NEXT BOX--------------------------------------
+                ; ------------
+0000008C:       ; 
+0000008C:       ; nextbox
+0000008C:       ; 
+0000008C: 0140  ; LDA score
+0000008D: 212C  ; ADD one
+0000008E: 1140  ; STA score
+0000008F:       ; 
+0000008F:       ; ; calculates which is the next box
+0000008F: 0140  ;     LDA score
+00000090: 3135  ;     SUB ten 
+00000091: 50B2  ;     JGE tenthbox
+00000092: 312C  ;     SUB one
+00000093: 50B0  ;     JGE ninthbox
+00000094: 312C  ;     SUB one
+00000095: 50AE  ;     JGE eighthbox
+00000096: 312C  ;     SUB one
+00000097: 50AC  ;     JGE seventhbox
+00000098: 312C  ;     SUB one
+00000099: 50AA  ;     JGE sixthbox
+0000009A: 312C  ;     SUB one
+0000009B: 50A8  ;     JGE fifthbox
+0000009C: 312C  ;     SUB one
+0000009D: 50A6  ;     JGE fourthbox
+0000009E: 312C  ;     SUB one
+0000009F: 50A4  ;     JGE thirdbox
+000000A0: 312C  ;     SUB one
+000000A1: 50A2  ;     JGE secondbox
+000000A2:       ; 
+000000A2:       ; secondbox
+000000A2: 0128  ;     LDA boxup
+000000A3: 40B3  ;     JMP displaynextbox
+000000A4:       ; thirdbox
+000000A4: 0127  ;     LDA boxdown
+000000A5: 40B3  ;     JMP displaynextbox
+000000A6:       ; fourthbox
+000000A6: 0127  ;     LDA boxdown
+000000A7: 40B3  ;     JMP displaynextbox
+000000A8:       ; fifthbox
+000000A8: 0128  ;     LDA boxup
+000000A9: 40B3  ;     JMP displaynextbox
+000000AA:       ; sixthbox
+000000AA: 0127  ;     LDA boxdown
+000000AB: 40B3  ;     JMP displaynextbox
+000000AC:       ; seventhbox
+000000AC: 0127  ;     LDA boxdown
+000000AD: 40B3  ;     JMP displaynextbox
+000000AE:       ; eighthbox
+000000AE: 0128  ;     LDA boxup
+000000AF: 40B3  ;     JMP displaynextbox
+000000B0:       ; ninthbox
+000000B0: 0128  ;     LDA boxup
+000000B1: 40B3  ;     JMP displaynextbox
+000000B2:       ; tenthbox
+000000B2: 0127  ;     LDA boxdown
+000000B3:       ; 
+000000B3:       ; displaynextbox
+000000B3: 1FF5  ;     STA digit0
+000000B4: 4053  ;     JMP startdelay
+000000B5:       ; 
+000000B5:       ; ;----------------------------------------------------END OF GAME-------------------------------------
+                ; -------------------
+000000B5:       ; 
+000000B5:       ; win ;displays win
+000000B5: 012B  ;     LDA zero
+000000B6: 1FF5  ;     STA digit0
+000000B7: 012B  ;     LDA zero
+000000B8: 1FF6  ;     STA digit1
+000000B9: 012B  ;     LDA zero
+000000BA: 1FF7  ;     STA digit2
+000000BB: 012B  ;     LDA zero
+000000BC: 1FF8  ;     STA digit3
+000000BD: 012B  ;     LDA zero
+000000BE: 1FF9  ;     STA digit4
+000000BF: 012B  ;     LDA zero
+000000C0: 1FFA  ;     STA digit5
+000000C1: 011D  ;     LDA dash
+000000C2: 1FFA  ;     STA digit5
+000000C3: 011D  ;     LDA dash
+000000C4: 1FF9  ;     STA digit4
+000000C5: 011D  ;     LDA dash
+000000C6: 1FF5  ;     STA digit0
+000000C7: 011A  ;     LDA w
+000000C8: 1FF8  ;     STA digit3
+000000C9: 011B  ;     LDA i
+000000CA: 1FF7  ;     STA digit2
+000000CB: 011C  ;     LDA n
+000000CC: 1FF6  ;     STA digit1
+000000CD:       ; 
+000000CD: 0119  ;     LDA green
+000000CE: 1FFF  ;     STA trafficlights
+000000CF:       ; 
+000000CF: 4112  ;     JMP endofgame
+000000D0:       ; 
+000000D0:       ; lose ;displays lose
+000000D0:       ; 
+000000D0: 0117  ;     LDA red
+000000D1: 1FFF  ;     STA trafficlights
+000000D2:       ; 
+000000D2: 012B  ;     LDA zero
+000000D3: 1FF5  ;     STA digit0
+000000D4: 012B  ;     LDA zero
+000000D5: 1FF6  ;     STA digit1
+000000D6: 012B  ;     LDA zero
+000000D7: 1FF7  ;     STA digit2
+000000D8: 012B  ;     LDA zero
+000000D9: 1FF8  ;     STA digit3
+000000DA: 012B  ;     LDA zero
+000000DB: 1FF9  ;     STA digit4
+000000DC: 012B  ;     LDA zero
+000000DD: 1FFA  ;     STA digit5
+000000DE:       ; 
+000000DE: 011E  ;     LDA l
+000000DF: 1FFA  ;     STA digit5
+000000E0: 011F  ;     LDA o
+000000E1: 1FF9  ;     STA digit4
+000000E2: 0120  ;     LDA s
+000000E3: 1FF8  ;     STA digit3
+000000E4: 0121  ;     LDA e
+000000E5: 1FF7  ;     STA digit2
+000000E6: 011D  ;     LDA dash
+000000E7: 1FF6  ;     STA digit1
+000000E8:       ; 
+000000E8:       ;     ;displaying score
+000000E8: 0140  ;     LDA score
+000000E9: 3135  ;     SUB ten
+000000EA: 510E  ;     JGE score9
+000000EB: 312C  ;     SUB one
+000000EC: 510C  ;     JGE score8
+000000ED: 312C  ;     SUB one
+000000EE: 510A  ;     JGE score7
+000000EF: 312C  ;     SUB one
+000000F0: 5108  ;     JGE score6
+000000F1: 312C  ;     SUB one
+000000F2: 5106  ;     JGE score5
+000000F3: 312C  ;     SUB one
+000000F4: 5104  ;     JGE score4
+000000F5: 312C  ;     SUB one
+000000F6: 5102  ;     JGE score3
+000000F7: 312C  ;     SUB one
+000000F8: 5100  ;     JGE score2
+000000F9: 312C  ;     SUB one
+000000FA: 50FE  ;     JGE score1
+000000FB: 40FC  ;     JMP score0
+000000FC:       ; 
+000000FC:       ; score0
+000000FC: 0136  ;     LDA display0
+000000FD: 4110  ;     JMP printscore
+000000FE:       ; score1
+000000FE: 0137  ;     LDA display1
+000000FF: 4110  ;     JMP printscore
+00000100:       ; score2
+00000100: 0138  ;     LDA display2
+00000101: 4110  ;     JMP printscore
+00000102:       ; score3
+00000102: 0139  ;     LDA display3
+00000103: 4110  ;     JMP printscore
+00000104:       ; score4
+00000104: 013A  ;     LDA display4
+00000105: 4110  ;     JMP printscore
+00000106:       ; score5
+00000106: 013B  ;     LDA display5
+00000107: 4110  ;     JMP printscore
+00000108:       ; score6
+00000108: 013C  ;     LDA display6
+00000109: 4110  ;     JMP printscore
+0000010A:       ; score7
+0000010A: 013D  ;     LDA display7
+0000010B: 4110  ;     JMP printscore
+0000010C:       ; score8
+0000010C: 013E  ;     LDA display8
+0000010D: 4110  ;     JMP printscore
+0000010E:       ; score9
+0000010E: 013F  ;     LDA display9
+0000010F: 4110  ;     JMP printscore
+00000110:       ; 
+00000110:       ; printscore
+00000110:       ;     ;STA digit0
+00000110: 011D  ;     LDA dash
+00000111: 1FF5  ;     STA digit0
+00000112:       ; 
+00000112:       ; endofgame
+00000112: 0FF0  ;     LDA buttons
+00000113: 312D  ;     SUB two
+00000114: 6112  ;     JNE endofgame
+00000115:       ; 
+00000115: 4000  ; JMP reset
+00000116:       ; 
+00000116: 7000  ; STP
+00000117:       ; 
+00000117:       ; ;-----------------------------------------DEFINITIONS------------------------------------------
+00000117:       ; digit0 EQU &0FF5
+00000117:       ; digit1 EQU &0FF6
+00000117:       ; digit2 EQU &0FF7
+00000117:       ; digit3 EQU &0FF8
+00000117:       ; digit4 EQU &0FF9
+00000117:       ; digit5 EQU &0FFA
+00000117:       ; buttons EQU &FF0
+00000117:       ; keypad EQU &FF2
+00000117:       ; trafficlights EQU &FFF
+00000117:       ; 
+00000117: 048C  ; red DEFW 0b0000010010001100
+00000118: 0242  ; amber DEFW 0b0000001001000010
+00000119: 0131  ; green DEFW 0b0000000100110001
+0000011A:       ; 
+0000011A: 103E  ; w DEFW 0b001000000111110
+0000011B: 1209  ; i DEFW 0b001001000001001
+0000011C: 2136  ; n DEFW 0b010000100110110
+0000011D: 00C0  ; dash DEFW 0b000000011000000
+0000011E:       ; 
+0000011E: 0038  ; l DEFW 0b000000000111000
+0000011F: 003F  ; o DEFW 0b000000000111111
+00000120: 00ED  ; s DEFW 0b000000011101101
+00000121: 00F9  ; e DEFW 0b000000011111001
+00000122:       ; 
+00000122: 1201  ; t DEFW 0b001001000000001
+00000123: 00F7  ; a DEFW 0b000000011110111
+00000124: 20F3  ; r DEFW 0b010000011110011
+00000125:       ; 
+00000125: 0004  ; dinodown DEFW 0b000000000000100
+00000126: 0002  ; dinoup DEFW 0b000000000000010
+00000127: 00DC  ; boxdown DEFW 0b000000011011100
+00000128: 00E3  ; boxup DEFW 0b000000011100011
+00000129: 0000  ; dino DEFW 0b000000000000000 ;status of the dino
+0000012A:       ; 
+0000012A: FFFF  ; delay DEFW &FFFF
+0000012B: 0000  ; zero DEFW 0b000000000000000
+0000012C: 0001  ; one DEFW &0001
+0000012D: 0002  ; two DEFW &0002
+0000012E: 0003  ; three DEFW &0003
+0000012F: 0004  ; four DEFW &0004
+00000130: 0005  ; five DEFW &0005
+00000131: 0006  ; six DEFW &0006
+00000132: 0007  ; seven DEFW &0007
+00000133: 0008  ; eight DEFW &0008
+00000134: 0009  ; nine DEFW &0009
+00000135: 000A  ; ten DEFW &000A
+00000136:       ; 
+00000136: 003F  ; display0 DEFW 0b000000000111111
+00000137: 0406  ; display1 DEFW 0b000010000000110
+00000138: 00DB  ; display2 DEFW 0b000000011011011
+00000139: 00CF  ; display3 DEFW 0b000000011001111
+0000013A: 00E6  ; display4 DEFW 0b000000011100110
+0000013B: 00ED  ; display5 DEFW 0b000000011101101
+0000013C: 00FD  ; display6 DEFW 0b000000011111101
+0000013D: 0007  ; display7 DEFW 0b000000000000111
+0000013E: 00FF  ; display8 DEFW 0b000000011111111
+0000013F: 00EF  ; display9 DEFW 0b000000011101111
+00000140:       ; 
+00000140: 0000  ; score DEFW &0000
+00000141: 0008  ; delaycount DEFW &0008
+00000142: 0008  ; currentdelaycount DEFW &0008
+00000143: 0005  ; boxcount DEFW &0005
+00000144: 0005  ; currentboxcount DEFW &0005
+
+Symbol Table: Labels
+: reset                             00000000  Local --
+: start                             0000001A  Local --
+: countdowndelay                    0000002F  Local --
+: countdownloop                     00000030  Local --
+: countdowndelay2                   0000003A  Local --
+: countdownloop2                    0000003B  Local --
+: countdowndelay3                   00000045  Local --
+: countdownloop3                    00000046  Local --
+: startdelay                        00000053  Local --
+: loop                              00000054  Local --
+: movedinoup                        00000066  Local --
+: moveboxes                         0000006A  Local --
+: startdelay2                       0000007A  Local --
+: loop2                             0000007B  Local --
+: checkforloss                      00000083  Local --
+: checkifdinoup                     0000008A  Local --
+: nextbox                           0000008C  Local --
+: secondbox                         000000A2  Local --
+: thirdbox                          000000A4  Local --
+: fourthbox                         000000A6  Local --
+: fifthbox                          000000A8  Local --
+: sixthbox                          000000AA  Local --
+: seventhbox                        000000AC  Local --
+: eighthbox                         000000AE  Local --
+: ninthbox                          000000B0  Local --
+: tenthbox                          000000B2  Local --
+: displaynextbox                    000000B3  Local --
+: win                               000000B5  Local --
+: lose                              000000D0  Local --
+: score0                            000000FC  Local --
+: score1                            000000FE  Local --
+: score2                            00000100  Local --
+: score3                            00000102  Local --
+: score4                            00000104  Local --
+: score5                            00000106  Local --
+: score6                            00000108  Local --
+: score7                            0000010A  Local --
+: score8                            0000010C  Local --
+: score9                            0000010E  Local --
+: printscore                        00000110  Local --
+: endofgame                         00000112  Local --
+: digit0                            00000FF5  Value
+: digit1                            00000FF6  Value
+: digit2                            00000FF7  Value
+: digit3                            00000FF8  Value
+: digit4                            00000FF9  Value
+: digit5                            00000FFA  Value
+: buttons                           00000FF0  Value
+: keypad                            00000FF2  Value
+: trafficlights                     00000FFF  Value
+: red                               00000117  Local --
+: amber                             00000118  Local --
+: green                             00000119  Local --
+: w                                 0000011A  Local --
+: i                                 0000011B  Local --
+: n                                 0000011C  Local --
+: dash                              0000011D  Local --
+: l                                 0000011E  Local --
+: o                                 0000011F  Local --
+: s                                 00000120  Local --
+: e                                 00000121  Local --
+: t                                 00000122  Local --
+: a                                 00000123  Local --
+: r                                 00000124  Local --
+: dinodown                          00000125  Local --
+: dinoup                            00000126  Local --
+: boxdown                           00000127  Local --
+: boxup                             00000128  Local --
+: dino                              00000129  Local --
+: delay                             0000012A  Local --
+: zero                              0000012B  Local --
+: one                               0000012C  Local --
+: two                               0000012D  Local --
+: three                             0000012E  Local --
+: four                              0000012F  Local --
+: five                              00000130  Local --
+: six                               00000131  Local --
+: seven                             00000132  Local --
+: eight                             00000133  Local --
+: nine                              00000134  Local --
+: ten                               00000135  Local --
+: display0                          00000136  Local --
+: display1                          00000137  Local --
+: display2                          00000138  Local --
+: display3                          00000139  Local --
+: display4                          0000013A  Local --
+: display5                          0000013B  Local --
+: display6                          0000013C  Local --
+: display7                          0000013D  Local --
+: display8                          0000013E  Local --
+: display9                          0000013F  Local --
+: score                             00000140  Local --
+: delaycount                        00000141  Local --
+: currentdelaycount                 00000142  Local --
+: boxcount                          00000143  Local --
+: currentboxcount                   00000144  Local --

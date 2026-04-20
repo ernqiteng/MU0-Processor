@@ -1,0 +1,144 @@
+m255
+K4
+z2
+!s12c _opt2
+Z0 !s99 nomlopt
+!s12c _opt1
+R0
+!s12c _opt
+R0
+!s11f vlog 2023.4 2023.10, Oct  9 2023
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/p86342et/Questa/COMP12111
+T_opt
+!s110 1764077793
+ViTI4bkzI>BnnQQ_zN8^>i3
+04 23 4 work Traffic_Light_Testbench fast 0
+Z2 04 4 4 GLIB glbl fast 0
+=1-000ae431a4f1-6925b0e0-cf0aa-2b6f4e
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work Ex2 -gblso libssl.so -L unisims -L BoardLib -L Ex1 -L Ex2 -L Ex3 +acc
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2023.4;77
+R1
+T_opt1
+!s110 1764078390
+VJ8=6@lkRHm^eUg8zc5Z4Z1
+Z8 04 19 4 work Traffic_Light_Board fast 0
+R2
+=1-000ae431a4f1-6925b335-9211d-2bba0e
+R0
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work Ex2 -gblso libssl.so -L BoardLib -L Ex1 -L unisims -L BoardLib -L Ex1 -L Ex2 -L Ex3 +acc
+R6
+n@_opt1
+R7
+R1
+T_opt2
+!s110 1764078461
+Vnig[U:e[Xf68Wc18nXn:@0
+R8
+R2
+=1-000ae431a4f1-6925b37c-975e2-2bc3ba
+R0
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work Ex2 -gblso libssl.so -L BoardLib -L unisims -L BoardLib -L Ex1 -L Ex2 -L Ex3 +acc
+R6
+n@_opt2
+R7
+vTraffic_Light
+2./src/Ex2/Traffic_Light.sv
+Z9 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z10 !s110 1764077766
+!i10b 1
+!s100 e6T@@M[a1LiO6k3dOT<S^2
+Iz3_>zC;WPJABK>gkn<dlk0
+S1
+R1
+w1763467200
+8./src/Ex2/Traffic_Light.sv
+F./src/Ex2/Traffic_Light.sv
+!i122 2
+L0 27 82
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2023.4;77
+r1
+!s85 0
+31
+Z13 !s108 1764077766.000000
+!s107 ./src/Ex2/Traffic_Light.sv|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex2/Traffic_Light.sv|
+!s101 -O0
+!i113 0
+Z14 !s102 -cover bcsxf
+Z15 o-O0 -lint -cover bcsxf
+Z16 tShow_source 1 DisableOpt 1 CoverOpt 1 CvgOpt 0
+n@traffic_@light
+vTraffic_Light_Board
+2./src/Ex2/Traffic_Light_Board.sv
+R9
+R10
+!i10b 1
+!s100 8cle=LeYYbWGXDzX6M1zS3
+IT_N7MjLk?jG`Vczh^ccJL1
+S1
+R1
+w1763480973
+8./src/Ex2/Traffic_Light_Board.sv
+F./src/Ex2/Traffic_Light_Board.sv
+!i122 0
+L0 23 98
+R11
+R12
+r1
+!s85 0
+31
+!s108 1764077765.000000
+!s107 ./src/Ex2/Traffic_Light_Board.sv|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex2/Traffic_Light_Board.sv|
+!s101 -O0
+!i113 0
+R14
+R15
+R16
+n@traffic_@light_@board
+vTraffic_Light_Testbench
+2./src/Ex2/Traffic_Light_Testbench.sv
+R9
+R10
+!i10b 1
+!s100 KjhGOVX?X]V_dWgT^BlmY3
+IOdnFoj40k^ELD7bk=TnH<0
+S1
+R1
+w1762518571
+8./src/Ex2/Traffic_Light_Testbench.sv
+F./src/Ex2/Traffic_Light_Testbench.sv
+!i122 1
+L0 20 87
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 ./src/Ex2/Traffic_Light_Testbench.sv|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex2/Traffic_Light_Testbench.sv|
+!s101 -O0
+!i113 0
+R14
+R15
+R16
+n@traffic_@light_@testbench

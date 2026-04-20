@@ -1,0 +1,107 @@
+// COMP12111 Exercise 2 - Sequential Design Testbench
+//
+// Version 2024. P W Nutter
+//
+// This is the Verilog module for the traffic light testbench
+// Tests for the traffic light should be added to this file
+//
+// Make sure you document your code and marks may be awarded/lost for the 
+// quality of the comments given.
+//
+// Add your comments:
+//
+// This tests the design during simulation
+// Updated October 2025
+// By Ern Qi Teng
+
+`timescale  1ns / 100ps 
+
+
+module Traffic_Light_Testbench;
+ 
+//  Internal signals have been defined for you
+//  and must be used for this excercise 
+//  DO NOT alter names, and ensure that your signals
+//  are logicd up correctly to your design under test 
+
+logic [4:0]  lightseq; 
+logic        clock;
+logic        reset;
+logic        start;
+
+// The design has been instantiated for you below:
+
+Traffic_Light top(.clock(clock), .reset(reset), .start(start), .lightseq(lightseq));
+
+
+//
+// Testing of a sequential design requires you to implement
+// a clock - see the advice in Blackboard on how to do this
+//
+
+/*
+
+#VALUE      creates a delay of VALUE ns
+a=VALUE;    sets the value of input 'a' to VALUE
+$stop;      tells the simulator to stop
+
+*/
+
+// Implement your clock here
+// -----------------------------------------------------
+
+// two initial blocks and an always block running concurrently starting at time = 0
+initial clock = 1'b0;     //initialise clk to 0 at time 0
+
+//creates clock signal
+// period is 2x 50ns = 100ns
+always
+	begin
+	#50     //delay of 50
+	clock = ~clock;        //waits half a clock period and then inverts the clock, NOT operator
+	end
+
+initial
+begin
+
+// Set input signals here, using delays where appropriate
+// -----------------------------------------------------
+// test all the states and possibilities for the FSM
+	#100
+	reset = 1'b1;
+	start = 1'b0;
+
+	#100
+	reset = 1'b1;
+	start = 1'b1;
+
+	#100
+	reset = 1'b0;
+	start = 1'b1;
+	#900
+
+	#400
+	start = 1'b0;
+	#300
+
+	#100
+	start = 1'b1;
+	#500
+	start = 1'b0;
+	#100
+	start = 1'b1;
+	#700
+	start = 1'b0;
+	#200
+	start = 1'b1;
+	#300
+	reset = 1'b1;
+	#100
+	reset = 1'b0;
+	start = 1'b1;
+
+#100 $stop;
+end
+
+endmodule
+ 

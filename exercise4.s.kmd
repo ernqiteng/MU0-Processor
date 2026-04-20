@@ -1,0 +1,96 @@
+KMD
+00000000: 0024  ; LDA zero
+00000001: 1FF5  ; STA digit0
+00000002: 0024  ; LDA zero
+00000003: 1FF6  ; STA digit1
+00000004: 0024  ; LDA zero
+00000005: 1FF7  ; STA digit2
+00000006: 0024  ; LDA zero
+00000007: 1FF8  ; STA digit3
+00000008: 0024  ; LDA zero
+00000009: 1FF9  ; STA digit4
+0000000A: 0024  ; LDA zero
+0000000B: 1FFA  ; STA digit5
+0000000C:       ; 
+0000000C: 001F  ; LDA dash
+0000000D: 1FFA  ; STA digit5
+0000000E: 0022  ; LDA s
+0000000F: 1FF9  ; STA digit4
+00000010: 002F  ; LDA t
+00000011: 1FF8  ; STA digit3
+00000012: 0030  ; LDA a
+00000013: 1FF7  ; STA digit2
+00000014: 0031  ; LDA r
+00000015: 1FF6  ; STA digit1
+00000016: 002F  ; LDA t
+00000017: 1FF5  ; STA digit0
+00000018:       ; 
+00000018: 0004  ; dinodown DEFW 0b000000000000100
+00000019: 0002  ; dinoup DEFW 0b000000000000010
+0000001A: 00DC  ; boxdown DEFW 0b000000011011100
+0000001B: 00E3  ; boxup DEFW 0b000000011100011
+0000001C: 103E  ; w DEFW 0b001000000111110
+0000001D: 1209  ; i DEFW 0b001001000001001
+0000001E: 2136  ; n DEFW 0b010000100110110
+0000001F: 00C0  ; dash DEFW 0b000000011000000
+00000020: 0038  ; l DEFW 0b000000000111000
+00000021: 003F  ; o DEFW 0b000000000111111
+00000022: 00ED  ; s DEFW 0b000000011101101
+00000023: 00F9  ; e DEFW 0b000000011111001
+00000024:       ; 
+00000024:       ; digit0 EQU &0FF5
+00000024:       ; digit1 EQU &0FF6
+00000024:       ; digit2 EQU &0FF7
+00000024:       ; digit3 EQU &0FF8
+00000024:       ; digit4 EQU &0FF9
+00000024:       ; digit5 EQU &0FFA
+00000024: 0000  ; zero DEFW &0000
+00000025:       ; 
+00000025: 003F  ; display0 DEFW 0b000000000111111
+00000026: 0406  ; display1 DEFW 0b000010000000110
+00000027: 00DB  ; display2 DEFW 0b000000011011011
+00000028: 00CF  ; display3 DEFW 0b000000011001111
+00000029: 00E6  ; display4 DEFW 0b000000011100110
+0000002A: 00ED  ; display5 DEFW 0b000000011101101
+0000002B: 00FD  ; display6 DEFW 0b000000011111101
+0000002C: 0007  ; display7 DEFW 0b000000000000111
+0000002D: 00FF  ; display8 DEFW 0b000000011111111
+0000002E: 00EF  ; display9 DEFW 0b000000011101111
+0000002F:       ; 
+0000002F: 1201  ; t DEFW 0b001001000000001
+00000030: 00F7  ; a DEFW 0b000000011110111
+00000031: 20F3  ; r DEFW 0b010000011110011
+
+Symbol Table: Labels
+: dinodown                          00000018  Local --
+: dinoup                            00000019  Local --
+: boxdown                           0000001A  Local --
+: boxup                             0000001B  Local --
+: w                                 0000001C  Local --
+: i                                 0000001D  Local --
+: n                                 0000001E  Local --
+: dash                              0000001F  Local --
+: l                                 00000020  Local --
+: o                                 00000021  Local --
+: s                                 00000022  Local --
+: e                                 00000023  Local --
+: digit0                            00000FF5  Value
+: digit1                            00000FF6  Value
+: digit2                            00000FF7  Value
+: digit3                            00000FF8  Value
+: digit4                            00000FF9  Value
+: digit5                            00000FFA  Value
+: zero                              00000024  Local --
+: display0                          00000025  Local --
+: display1                          00000026  Local --
+: display2                          00000027  Local --
+: display3                          00000028  Local --
+: display4                          00000029  Local --
+: display5                          0000002A  Local --
+: display6                          0000002B  Local --
+: display7                          0000002C  Local --
+: display8                          0000002D  Local --
+: display9                          0000002E  Local --
+: t                                 0000002F  Local --
+: a                                 00000030  Local --
+: r                                 00000031  Local --

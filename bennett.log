@@ -1,0 +1,2974 @@
+ - 1621538 [info] Starting STUMP Loader
+ - 1621538 [info] No serial port specified
+ - 1621538 [info] Searching for ports...
+ - 1621538 [info] Found ttyUSB0
+ - 1621538 [info] Found ttyS4
+ - 1621538 [info] Found ttyS1
+ - 1621538 [info] Found ttyS10
+ - 1621538 [info] Found ttyS11
+ - 1621538 [info] Found ttyS12
+ - 1621538 [info] Found ttyS13
+ - 1621538 [info] Found ttyS14
+ - 1621538 [info] Found ttyS15
+ - 1621538 [info] Found ttyS16
+ - 1621538 [info] Found ttyS17
+ - 1621538 [info] Found ttyS18
+ - 1621538 [info] Found ttyS19
+ - 1621538 [info] Found ttyS2
+ - 1621538 [info] Found ttyS20
+ - 1621538 [info] Found ttyS21
+ - 1621538 [info] Found ttyS22
+ - 1621538 [info] Found ttyS23
+ - 1621538 [info] Found ttyS24
+ - 1621538 [info] Found ttyS25
+ - 1621538 [info] Found ttyS26
+ - 1621538 [info] Found ttyS27
+ - 1621538 [info] Found ttyS28
+ - 1621538 [info] Found ttyS29
+ - 1621538 [info] Found ttyS3
+ - 1621538 [info] Found ttyS30
+ - 1621538 [info] Found ttyS31
+ - 1621538 [info] Found ttyS5
+ - 1621538 [info] Found ttyS6
+ - 1621538 [info] Found ttyS7
+ - 1621538 [info] Found ttyS8
+ - 1621538 [info] Found ttyS9
+ - 1621538 [info] Found ttyS0
+ - 1621538 [info] Using ttyUSB0
+ - 1621538 [info] Port ttyUSB0
+ - 1621538 [info] File /home/p86342et/Questa/COMP12111/synthesis/Display_Decoder_Board/Display_Decoder_Board.bin
+ - 1621538 [info] Sectors to upload: 19
+ - 1621538 [info] File size bytes: 1241804
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 32 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 33 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 34 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 35 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 36 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 37 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 38 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 39 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 40 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 41 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 42 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 43 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 44 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 45 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 46 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 47 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 48 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 49 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Board said: R
+ - 1621538 [info] Writing sector 50 total size 65537
+ - 1621538 [info] Board said: P
+ - 1621538 [info] Starting warm boot 
+ - 308351 [info] Starting STUMP Loader
+ - 308351 [info] No serial port specified
+ - 308351 [info] Searching for ports...
+ - 308351 [info] Found ttyUSB0
+ - 308351 [info] Found ttyS4
+ - 308351 [info] Found ttyS1
+ - 308351 [info] Found ttyS10
+ - 308351 [info] Found ttyS11
+ - 308351 [info] Found ttyS12
+ - 308351 [info] Found ttyS13
+ - 308351 [info] Found ttyS14
+ - 308351 [info] Found ttyS15
+ - 308351 [info] Found ttyS16
+ - 308351 [info] Found ttyS17
+ - 308351 [info] Found ttyS18
+ - 308351 [info] Found ttyS19
+ - 308351 [info] Found ttyS2
+ - 308351 [info] Found ttyS20
+ - 308351 [info] Found ttyS21
+ - 308351 [info] Found ttyS22
+ - 308351 [info] Found ttyS23
+ - 308351 [info] Found ttyS24
+ - 308351 [info] Found ttyS25
+ - 308351 [info] Found ttyS26
+ - 308351 [info] Found ttyS27
+ - 308351 [info] Found ttyS28
+ - 308351 [info] Found ttyS29
+ - 308351 [info] Found ttyS3
+ - 308351 [info] Found ttyS30
+ - 308351 [info] Found ttyS31
+ - 308351 [info] Found ttyS5
+ - 308351 [info] Found ttyS6
+ - 308351 [info] Found ttyS7
+ - 308351 [info] Found ttyS8
+ - 308351 [info] Found ttyS9
+ - 308351 [info] Found ttyS0
+ - 308351 [info] Using ttyUSB0
+ - 308351 [info] Port ttyUSB0
+ - 308351 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 308351 [info] Sectors to upload: 19
+ - 308351 [info] File size bytes: 1241804
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 32 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 33 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 34 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 35 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 36 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 37 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 38 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 39 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 40 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 41 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 42 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 43 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 44 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 45 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 46 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 47 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 48 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 49 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Board said: R
+ - 308351 [info] Writing sector 50 total size 65537
+ - 308351 [info] Board said: P
+ - 308351 [info] Starting warm boot 
+ - 396453 [info] Starting STUMP Loader
+ - 396453 [info] No serial port specified
+ - 396453 [info] Searching for ports...
+ - 396453 [info] Found ttyUSB0
+ - 396453 [info] Found ttyS4
+ - 396453 [info] Found ttyS1
+ - 396453 [info] Found ttyS10
+ - 396453 [info] Found ttyS11
+ - 396453 [info] Found ttyS12
+ - 396453 [info] Found ttyS13
+ - 396453 [info] Found ttyS14
+ - 396453 [info] Found ttyS15
+ - 396453 [info] Found ttyS16
+ - 396453 [info] Found ttyS17
+ - 396453 [info] Found ttyS18
+ - 396453 [info] Found ttyS19
+ - 396453 [info] Found ttyS2
+ - 396453 [info] Found ttyS20
+ - 396453 [info] Found ttyS21
+ - 396453 [info] Found ttyS22
+ - 396453 [info] Found ttyS23
+ - 396453 [info] Found ttyS24
+ - 396453 [info] Found ttyS25
+ - 396453 [info] Found ttyS26
+ - 396453 [info] Found ttyS27
+ - 396453 [info] Found ttyS28
+ - 396453 [info] Found ttyS29
+ - 396453 [info] Found ttyS3
+ - 396453 [info] Found ttyS30
+ - 396453 [info] Found ttyS31
+ - 396453 [info] Found ttyS5
+ - 396453 [info] Found ttyS6
+ - 396453 [info] Found ttyS7
+ - 396453 [info] Found ttyS8
+ - 396453 [info] Found ttyS9
+ - 396453 [info] Found ttyS0
+ - 396453 [info] Using ttyUSB0
+ - 396453 [info] Port ttyUSB0
+ - 396453 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 396453 [info] Sectors to upload: 19
+ - 396453 [info] File size bytes: 1241804
+ - 440855 [info] Starting STUMP Loader
+ - 440855 [info] No serial port specified
+ - 440855 [info] Searching for ports...
+ - 440855 [info] Found ttyUSB0
+ - 440855 [info] Found ttyS4
+ - 440855 [info] Found ttyS1
+ - 440855 [info] Found ttyS10
+ - 440855 [info] Found ttyS11
+ - 440855 [info] Found ttyS12
+ - 440855 [info] Found ttyS13
+ - 440855 [info] Found ttyS14
+ - 440855 [info] Found ttyS15
+ - 440855 [info] Found ttyS16
+ - 440855 [info] Found ttyS17
+ - 440855 [info] Found ttyS18
+ - 440855 [info] Found ttyS19
+ - 440855 [info] Found ttyS2
+ - 440855 [info] Found ttyS20
+ - 440855 [info] Found ttyS21
+ - 440855 [info] Found ttyS22
+ - 440855 [info] Found ttyS23
+ - 440855 [info] Found ttyS24
+ - 440855 [info] Found ttyS25
+ - 440855 [info] Found ttyS26
+ - 440855 [info] Found ttyS27
+ - 440855 [info] Found ttyS28
+ - 440855 [info] Found ttyS29
+ - 440855 [info] Found ttyS3
+ - 440855 [info] Found ttyS30
+ - 440855 [info] Found ttyS31
+ - 440855 [info] Found ttyS5
+ - 440855 [info] Found ttyS6
+ - 440855 [info] Found ttyS7
+ - 440855 [info] Found ttyS8
+ - 440855 [info] Found ttyS9
+ - 440855 [info] Found ttyS0
+ - 440855 [info] Using ttyUSB0
+ - 440855 [info] Port ttyUSB0
+ - 440855 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 440855 [info] Sectors to upload: 19
+ - 440855 [info] File size bytes: 1241804
+ - 2291806 [info] Starting STUMP Loader
+ - 2291806 [info] No serial port specified
+ - 2291806 [info] Searching for ports...
+ - 2291806 [info] Found ttyUSB0
+ - 2291806 [info] Found ttyS4
+ - 2291806 [info] Found ttyS1
+ - 2291806 [info] Found ttyS10
+ - 2291806 [info] Found ttyS11
+ - 2291806 [info] Found ttyS12
+ - 2291806 [info] Found ttyS13
+ - 2291806 [info] Found ttyS14
+ - 2291806 [info] Found ttyS15
+ - 2291806 [info] Found ttyS16
+ - 2291806 [info] Found ttyS17
+ - 2291806 [info] Found ttyS18
+ - 2291806 [info] Found ttyS19
+ - 2291806 [info] Found ttyS2
+ - 2291806 [info] Found ttyS20
+ - 2291806 [info] Found ttyS21
+ - 2291806 [info] Found ttyS22
+ - 2291806 [info] Found ttyS23
+ - 2291806 [info] Found ttyS24
+ - 2291806 [info] Found ttyS25
+ - 2291806 [info] Found ttyS26
+ - 2291806 [info] Found ttyS27
+ - 2291806 [info] Found ttyS28
+ - 2291806 [info] Found ttyS29
+ - 2291806 [info] Found ttyS3
+ - 2291806 [info] Found ttyS30
+ - 2291806 [info] Found ttyS31
+ - 2291806 [info] Found ttyS5
+ - 2291806 [info] Found ttyS6
+ - 2291806 [info] Found ttyS7
+ - 2291806 [info] Found ttyS8
+ - 2291806 [info] Found ttyS9
+ - 2291806 [info] Found ttyS0
+ - 2291806 [info] Using ttyUSB0
+ - 2291806 [info] Port ttyUSB0
+ - 2291806 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2291806 [info] Sectors to upload: 19
+ - 2291806 [info] File size bytes: 1241804
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 32 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 33 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 34 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 35 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 36 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 37 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 38 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 39 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 40 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 41 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 42 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 43 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 44 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 45 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 46 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 47 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 48 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 49 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Board said: R
+ - 2291806 [info] Writing sector 50 total size 65537
+ - 2291806 [info] Board said: P
+ - 2291806 [info] Starting warm boot 
+ - 2401588 [info] Starting STUMP Loader
+ - 2401588 [info] No serial port specified
+ - 2401588 [info] Searching for ports...
+ - 2401588 [info] Found ttyUSB0
+ - 2401588 [info] Found ttyS4
+ - 2401588 [info] Found ttyS1
+ - 2401588 [info] Found ttyS10
+ - 2401588 [info] Found ttyS11
+ - 2401588 [info] Found ttyS12
+ - 2401588 [info] Found ttyS13
+ - 2401588 [info] Found ttyS14
+ - 2401588 [info] Found ttyS15
+ - 2401588 [info] Found ttyS16
+ - 2401588 [info] Found ttyS17
+ - 2401588 [info] Found ttyS18
+ - 2401588 [info] Found ttyS19
+ - 2401588 [info] Found ttyS2
+ - 2401588 [info] Found ttyS20
+ - 2401588 [info] Found ttyS21
+ - 2401588 [info] Found ttyS22
+ - 2401588 [info] Found ttyS23
+ - 2401588 [info] Found ttyS24
+ - 2401588 [info] Found ttyS25
+ - 2401588 [info] Found ttyS26
+ - 2401588 [info] Found ttyS27
+ - 2401588 [info] Found ttyS28
+ - 2401588 [info] Found ttyS29
+ - 2401588 [info] Found ttyS3
+ - 2401588 [info] Found ttyS30
+ - 2401588 [info] Found ttyS31
+ - 2401588 [info] Found ttyS5
+ - 2401588 [info] Found ttyS6
+ - 2401588 [info] Found ttyS7
+ - 2401588 [info] Found ttyS8
+ - 2401588 [info] Found ttyS9
+ - 2401588 [info] Found ttyS0
+ - 2401588 [info] Using ttyUSB0
+ - 2401588 [info] Port ttyUSB0
+ - 2401588 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2401588 [info] Sectors to upload: 19
+ - 2401588 [info] File size bytes: 1241804
+ - 2403142 [info] Starting STUMP Loader
+ - 2403142 [info] No serial port specified
+ - 2403142 [info] Searching for ports...
+ - 2403142 [info] Found ttyUSB0
+ - 2403142 [info] Found ttyS4
+ - 2403142 [info] Found ttyS1
+ - 2403142 [info] Found ttyS10
+ - 2403142 [info] Found ttyS11
+ - 2403142 [info] Found ttyS12
+ - 2403142 [info] Found ttyS13
+ - 2403142 [info] Found ttyS14
+ - 2403142 [info] Found ttyS15
+ - 2403142 [info] Found ttyS16
+ - 2403142 [info] Found ttyS17
+ - 2403142 [info] Found ttyS18
+ - 2403142 [info] Found ttyS19
+ - 2403142 [info] Found ttyS2
+ - 2403142 [info] Found ttyS20
+ - 2403142 [info] Found ttyS21
+ - 2403142 [info] Found ttyS22
+ - 2403142 [info] Found ttyS23
+ - 2403142 [info] Found ttyS24
+ - 2403142 [info] Found ttyS25
+ - 2403142 [info] Found ttyS26
+ - 2403142 [info] Found ttyS27
+ - 2403142 [info] Found ttyS28
+ - 2403142 [info] Found ttyS29
+ - 2403142 [info] Found ttyS3
+ - 2403142 [info] Found ttyS30
+ - 2403142 [info] Found ttyS31
+ - 2403142 [info] Found ttyS5
+ - 2403142 [info] Found ttyS6
+ - 2403142 [info] Found ttyS7
+ - 2403142 [info] Found ttyS8
+ - 2403142 [info] Found ttyS9
+ - 2403142 [info] Found ttyS0
+ - 2403142 [info] Using ttyUSB0
+ - 2403142 [info] Port ttyUSB0
+ - 2403142 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2403142 [info] Sectors to upload: 19
+ - 2403142 [info] File size bytes: 1241804
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 32 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 33 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 34 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 35 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 36 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 37 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 38 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 39 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 40 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 41 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 42 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 43 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 44 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 45 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 46 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 47 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 48 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 49 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Board said: R
+ - 2403142 [info] Writing sector 50 total size 65537
+ - 2403142 [info] Board said: P
+ - 2403142 [info] Starting warm boot 
+ - 508294 [info] Starting STUMP Loader
+ - 508294 [info] No serial port specified
+ - 508294 [info] Searching for ports...
+ - 508294 [info] Found ttyUSB0
+ - 508294 [info] Found ttyS4
+ - 508294 [info] Found ttyS1
+ - 508294 [info] Found ttyS10
+ - 508294 [info] Found ttyS11
+ - 508294 [info] Found ttyS12
+ - 508294 [info] Found ttyS13
+ - 508294 [info] Found ttyS14
+ - 508294 [info] Found ttyS15
+ - 508294 [info] Found ttyS16
+ - 508294 [info] Found ttyS17
+ - 508294 [info] Found ttyS18
+ - 508294 [info] Found ttyS19
+ - 508294 [info] Found ttyS2
+ - 508294 [info] Found ttyS20
+ - 508294 [info] Found ttyS21
+ - 508294 [info] Found ttyS22
+ - 508294 [info] Found ttyS23
+ - 508294 [info] Found ttyS24
+ - 508294 [info] Found ttyS25
+ - 508294 [info] Found ttyS26
+ - 508294 [info] Found ttyS27
+ - 508294 [info] Found ttyS28
+ - 508294 [info] Found ttyS29
+ - 508294 [info] Found ttyS3
+ - 508294 [info] Found ttyS30
+ - 508294 [info] Found ttyS31
+ - 508294 [info] Found ttyS5
+ - 508294 [info] Found ttyS6
+ - 508294 [info] Found ttyS7
+ - 508294 [info] Found ttyS8
+ - 508294 [info] Found ttyS9
+ - 508294 [info] Found ttyS0
+ - 508294 [info] Using ttyUSB0
+ - 508294 [info] Port ttyUSB0
+ - 508294 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 508294 [info] Sectors to upload: 19
+ - 508294 [info] File size bytes: 1241804
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 32 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 33 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 34 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 35 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 36 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 37 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 38 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 39 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 40 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 41 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 42 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 43 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 44 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 45 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 46 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 47 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 48 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 49 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Board said: R
+ - 508294 [info] Writing sector 50 total size 65537
+ - 508294 [info] Board said: P
+ - 508294 [info] Starting warm boot 
+ - 566380 [info] Starting STUMP Loader
+ - 566380 [info] No serial port specified
+ - 566380 [info] Searching for ports...
+ - 566380 [info] Found ttyUSB0
+ - 566380 [info] Found ttyS4
+ - 566380 [info] Found ttyS1
+ - 566380 [info] Found ttyS10
+ - 566380 [info] Found ttyS11
+ - 566380 [info] Found ttyS12
+ - 566380 [info] Found ttyS13
+ - 566380 [info] Found ttyS14
+ - 566380 [info] Found ttyS15
+ - 566380 [info] Found ttyS16
+ - 566380 [info] Found ttyS17
+ - 566380 [info] Found ttyS18
+ - 566380 [info] Found ttyS19
+ - 566380 [info] Found ttyS2
+ - 566380 [info] Found ttyS20
+ - 566380 [info] Found ttyS21
+ - 566380 [info] Found ttyS22
+ - 566380 [info] Found ttyS23
+ - 566380 [info] Found ttyS24
+ - 566380 [info] Found ttyS25
+ - 566380 [info] Found ttyS26
+ - 566380 [info] Found ttyS27
+ - 566380 [info] Found ttyS28
+ - 566380 [info] Found ttyS29
+ - 566380 [info] Found ttyS3
+ - 566380 [info] Found ttyS30
+ - 566380 [info] Found ttyS31
+ - 566380 [info] Found ttyS5
+ - 566380 [info] Found ttyS6
+ - 566380 [info] Found ttyS7
+ - 566380 [info] Found ttyS8
+ - 566380 [info] Found ttyS9
+ - 566380 [info] Found ttyS0
+ - 566380 [info] Using ttyUSB0
+ - 566380 [info] Port ttyUSB0
+ - 566380 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 566380 [info] Sectors to upload: 19
+ - 566380 [info] File size bytes: 1241804
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 32 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 33 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 34 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 35 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 36 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 37 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 38 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 39 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 40 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 41 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 42 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 43 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 44 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 45 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 46 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 47 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 48 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 49 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Board said: R
+ - 566380 [info] Writing sector 50 total size 65537
+ - 566380 [info] Board said: P
+ - 566380 [info] Starting warm boot 
+ - 629196 [info] Starting STUMP Loader
+ - 629196 [info] No serial port specified
+ - 629196 [info] Searching for ports...
+ - 629196 [info] Found ttyUSB0
+ - 629196 [info] Found ttyS4
+ - 629196 [info] Found ttyS1
+ - 629196 [info] Found ttyS10
+ - 629196 [info] Found ttyS11
+ - 629196 [info] Found ttyS12
+ - 629196 [info] Found ttyS13
+ - 629196 [info] Found ttyS14
+ - 629196 [info] Found ttyS15
+ - 629196 [info] Found ttyS16
+ - 629196 [info] Found ttyS17
+ - 629196 [info] Found ttyS18
+ - 629196 [info] Found ttyS19
+ - 629196 [info] Found ttyS2
+ - 629196 [info] Found ttyS20
+ - 629196 [info] Found ttyS21
+ - 629196 [info] Found ttyS22
+ - 629196 [info] Found ttyS23
+ - 629196 [info] Found ttyS24
+ - 629196 [info] Found ttyS25
+ - 629196 [info] Found ttyS26
+ - 629196 [info] Found ttyS27
+ - 629196 [info] Found ttyS28
+ - 629196 [info] Found ttyS29
+ - 629196 [info] Found ttyS3
+ - 629196 [info] Found ttyS30
+ - 629196 [info] Found ttyS31
+ - 629196 [info] Found ttyS5
+ - 629196 [info] Found ttyS6
+ - 629196 [info] Found ttyS7
+ - 629196 [info] Found ttyS8
+ - 629196 [info] Found ttyS9
+ - 629196 [info] Found ttyS0
+ - 629196 [info] Using ttyUSB0
+ - 629196 [info] Port ttyUSB0
+ - 629196 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 629196 [info] Sectors to upload: 19
+ - 629196 [info] File size bytes: 1241804
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 32 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 33 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 34 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 35 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 36 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 37 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 38 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 39 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 40 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 41 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 42 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 43 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 44 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 45 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 46 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 47 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 48 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 49 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Board said: R
+ - 629196 [info] Writing sector 50 total size 65537
+ - 629196 [info] Board said: P
+ - 629196 [info] Starting warm boot 
+ - 1565067 [info] Starting STUMP Loader
+ - 1565067 [info] No serial port specified
+ - 1565067 [info] Searching for ports...
+ - 1565067 [info] Found ttyUSB0
+ - 1565067 [info] Found ttyS4
+ - 1565067 [info] Found ttyS1
+ - 1565067 [info] Found ttyS10
+ - 1565067 [info] Found ttyS11
+ - 1565067 [info] Found ttyS12
+ - 1565067 [info] Found ttyS13
+ - 1565067 [info] Found ttyS14
+ - 1565067 [info] Found ttyS15
+ - 1565067 [info] Found ttyS16
+ - 1565067 [info] Found ttyS17
+ - 1565067 [info] Found ttyS18
+ - 1565067 [info] Found ttyS19
+ - 1565067 [info] Found ttyS2
+ - 1565067 [info] Found ttyS20
+ - 1565067 [info] Found ttyS21
+ - 1565067 [info] Found ttyS22
+ - 1565067 [info] Found ttyS23
+ - 1565067 [info] Found ttyS24
+ - 1565067 [info] Found ttyS25
+ - 1565067 [info] Found ttyS26
+ - 1565067 [info] Found ttyS27
+ - 1565067 [info] Found ttyS28
+ - 1565067 [info] Found ttyS29
+ - 1565067 [info] Found ttyS3
+ - 1565067 [info] Found ttyS30
+ - 1565067 [info] Found ttyS31
+ - 1565067 [info] Found ttyS5
+ - 1565067 [info] Found ttyS6
+ - 1565067 [info] Found ttyS7
+ - 1565067 [info] Found ttyS8
+ - 1565067 [info] Found ttyS9
+ - 1565067 [info] Found ttyS0
+ - 1565067 [info] Using ttyUSB0
+ - 1565067 [info] Port ttyUSB0
+ - 1565067 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 1565067 [info] Sectors to upload: 19
+ - 1565067 [info] File size bytes: 1241804
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 32 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 33 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 34 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 35 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 36 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 37 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 38 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 39 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 40 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 41 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 42 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 43 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 44 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 45 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 46 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 47 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 48 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 49 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Board said: R
+ - 1565067 [info] Writing sector 50 total size 65537
+ - 1565067 [info] Board said: P
+ - 1565067 [info] Starting warm boot 
+ - 2125167 [info] Starting STUMP Loader
+ - 2125167 [info] No serial port specified
+ - 2125167 [info] Searching for ports...
+ - 2125167 [info] Found ttyUSB0
+ - 2125167 [info] Found ttyS4
+ - 2125167 [info] Found ttyS1
+ - 2125167 [info] Found ttyS10
+ - 2125167 [info] Found ttyS11
+ - 2125167 [info] Found ttyS12
+ - 2125167 [info] Found ttyS13
+ - 2125167 [info] Found ttyS14
+ - 2125167 [info] Found ttyS15
+ - 2125167 [info] Found ttyS16
+ - 2125167 [info] Found ttyS17
+ - 2125167 [info] Found ttyS18
+ - 2125167 [info] Found ttyS19
+ - 2125167 [info] Found ttyS2
+ - 2125167 [info] Found ttyS20
+ - 2125167 [info] Found ttyS21
+ - 2125167 [info] Found ttyS22
+ - 2125167 [info] Found ttyS23
+ - 2125167 [info] Found ttyS24
+ - 2125167 [info] Found ttyS25
+ - 2125167 [info] Found ttyS26
+ - 2125167 [info] Found ttyS27
+ - 2125167 [info] Found ttyS28
+ - 2125167 [info] Found ttyS29
+ - 2125167 [info] Found ttyS3
+ - 2125167 [info] Found ttyS30
+ - 2125167 [info] Found ttyS31
+ - 2125167 [info] Found ttyS5
+ - 2125167 [info] Found ttyS6
+ - 2125167 [info] Found ttyS7
+ - 2125167 [info] Found ttyS8
+ - 2125167 [info] Found ttyS9
+ - 2125167 [info] Found ttyS0
+ - 2125167 [info] Using ttyUSB0
+ - 2125167 [info] Port ttyUSB0
+ - 2125167 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 2125167 [info] Sectors to upload: 19
+ - 2125167 [info] File size bytes: 1241804
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 32 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 33 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 34 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 35 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 36 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 37 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 38 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 39 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 40 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 41 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 42 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 43 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 44 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 45 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 46 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 47 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 48 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 49 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Board said: R
+ - 2125167 [info] Writing sector 50 total size 65537
+ - 2125167 [info] Board said: P
+ - 2125167 [info] Starting warm boot 
+ - 2868347 [info] Starting STUMP Loader
+ - 2868347 [info] No serial port specified
+ - 2868347 [info] Searching for ports...
+ - 2868347 [info] Found ttyUSB0
+ - 2868347 [info] Found ttyS4
+ - 2868347 [info] Found ttyS1
+ - 2868347 [info] Found ttyS10
+ - 2868347 [info] Found ttyS11
+ - 2868347 [info] Found ttyS12
+ - 2868347 [info] Found ttyS13
+ - 2868347 [info] Found ttyS14
+ - 2868347 [info] Found ttyS15
+ - 2868347 [info] Found ttyS16
+ - 2868347 [info] Found ttyS17
+ - 2868347 [info] Found ttyS18
+ - 2868347 [info] Found ttyS19
+ - 2868347 [info] Found ttyS2
+ - 2868347 [info] Found ttyS20
+ - 2868347 [info] Found ttyS21
+ - 2868347 [info] Found ttyS22
+ - 2868347 [info] Found ttyS23
+ - 2868347 [info] Found ttyS24
+ - 2868347 [info] Found ttyS25
+ - 2868347 [info] Found ttyS26
+ - 2868347 [info] Found ttyS27
+ - 2868347 [info] Found ttyS28
+ - 2868347 [info] Found ttyS29
+ - 2868347 [info] Found ttyS3
+ - 2868347 [info] Found ttyS30
+ - 2868347 [info] Found ttyS31
+ - 2868347 [info] Found ttyS5
+ - 2868347 [info] Found ttyS6
+ - 2868347 [info] Found ttyS7
+ - 2868347 [info] Found ttyS8
+ - 2868347 [info] Found ttyS9
+ - 2868347 [info] Found ttyS0
+ - 2868347 [info] Using ttyUSB0
+ - 2868347 [info] Port ttyUSB0
+ - 2868347 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 2868347 [info] Sectors to upload: 19
+ - 2868347 [info] File size bytes: 1241804
+ - 2873296 [info] Starting STUMP Loader
+ - 2873296 [info] No serial port specified
+ - 2873296 [info] Searching for ports...
+ - 2873296 [info] Found ttyUSB0
+ - 2873296 [info] Found ttyS4
+ - 2873296 [info] Found ttyS1
+ - 2873296 [info] Found ttyS10
+ - 2873296 [info] Found ttyS11
+ - 2873296 [info] Found ttyS12
+ - 2873296 [info] Found ttyS13
+ - 2873296 [info] Found ttyS14
+ - 2873296 [info] Found ttyS15
+ - 2873296 [info] Found ttyS16
+ - 2873296 [info] Found ttyS17
+ - 2873296 [info] Found ttyS18
+ - 2873296 [info] Found ttyS19
+ - 2873296 [info] Found ttyS2
+ - 2873296 [info] Found ttyS20
+ - 2873296 [info] Found ttyS21
+ - 2873296 [info] Found ttyS22
+ - 2873296 [info] Found ttyS23
+ - 2873296 [info] Found ttyS24
+ - 2873296 [info] Found ttyS25
+ - 2873296 [info] Found ttyS26
+ - 2873296 [info] Found ttyS27
+ - 2873296 [info] Found ttyS28
+ - 2873296 [info] Found ttyS29
+ - 2873296 [info] Found ttyS3
+ - 2873296 [info] Found ttyS30
+ - 2873296 [info] Found ttyS31
+ - 2873296 [info] Found ttyS5
+ - 2873296 [info] Found ttyS6
+ - 2873296 [info] Found ttyS7
+ - 2873296 [info] Found ttyS8
+ - 2873296 [info] Found ttyS9
+ - 2873296 [info] Found ttyS0
+ - 2873296 [info] Using ttyUSB0
+ - 2873296 [info] Port ttyUSB0
+ - 2873296 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 2873296 [info] Sectors to upload: 19
+ - 2873296 [info] File size bytes: 1241804
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 32 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 33 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 34 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 35 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 36 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 37 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 38 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 39 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 40 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 41 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 42 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 43 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 44 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 45 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 46 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 47 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 48 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 49 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Board said: R
+ - 2873296 [info] Writing sector 50 total size 65537
+ - 2873296 [info] Board said: P
+ - 2873296 [info] Starting warm boot 
+ - 2924636 [info] Starting STUMP Loader
+ - 2924636 [info] No serial port specified
+ - 2924636 [info] Searching for ports...
+ - 2924636 [info] Found ttyUSB0
+ - 2924636 [info] Found ttyS4
+ - 2924636 [info] Found ttyS1
+ - 2924636 [info] Found ttyS10
+ - 2924636 [info] Found ttyS11
+ - 2924636 [info] Found ttyS12
+ - 2924636 [info] Found ttyS13
+ - 2924636 [info] Found ttyS14
+ - 2924636 [info] Found ttyS15
+ - 2924636 [info] Found ttyS16
+ - 2924636 [info] Found ttyS17
+ - 2924636 [info] Found ttyS18
+ - 2924636 [info] Found ttyS19
+ - 2924636 [info] Found ttyS2
+ - 2924636 [info] Found ttyS20
+ - 2924636 [info] Found ttyS21
+ - 2924636 [info] Found ttyS22
+ - 2924636 [info] Found ttyS23
+ - 2924636 [info] Found ttyS24
+ - 2924636 [info] Found ttyS25
+ - 2924636 [info] Found ttyS26
+ - 2924636 [info] Found ttyS27
+ - 2924636 [info] Found ttyS28
+ - 2924636 [info] Found ttyS29
+ - 2924636 [info] Found ttyS3
+ - 2924636 [info] Found ttyS30
+ - 2924636 [info] Found ttyS31
+ - 2924636 [info] Found ttyS5
+ - 2924636 [info] Found ttyS6
+ - 2924636 [info] Found ttyS7
+ - 2924636 [info] Found ttyS8
+ - 2924636 [info] Found ttyS9
+ - 2924636 [info] Found ttyS0
+ - 2924636 [info] Using ttyUSB0
+ - 2924636 [info] Port ttyUSB0
+ - 2924636 [info] File /home/p86342et/Questa/COMP12111/synthesis/Traffic_Light_Board/Traffic_Light_Board.bin
+ - 2924636 [info] Sectors to upload: 19
+ - 2924636 [info] File size bytes: 1241804
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 32 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 33 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 34 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 35 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 36 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 37 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 38 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 39 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 40 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 41 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 42 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 43 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 44 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 45 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 46 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 47 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 48 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 49 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Board said: R
+ - 2924636 [info] Writing sector 50 total size 65537
+ - 2924636 [info] Board said: P
+ - 2924636 [info] Starting warm boot 
+ - 457487 [info] Starting STUMP Loader
+ - 457487 [info] No serial port specified
+ - 457487 [info] Searching for ports...
+ - 457487 [info] Found ttyUSB0
+ - 457487 [info] Found ttyS4
+ - 457487 [info] Found ttyS1
+ - 457487 [info] Found ttyS10
+ - 457487 [info] Found ttyS11
+ - 457487 [info] Found ttyS12
+ - 457487 [info] Found ttyS13
+ - 457487 [info] Found ttyS14
+ - 457487 [info] Found ttyS15
+ - 457487 [info] Found ttyS16
+ - 457487 [info] Found ttyS17
+ - 457487 [info] Found ttyS18
+ - 457487 [info] Found ttyS19
+ - 457487 [info] Found ttyS2
+ - 457487 [info] Found ttyS20
+ - 457487 [info] Found ttyS21
+ - 457487 [info] Found ttyS22
+ - 457487 [info] Found ttyS23
+ - 457487 [info] Found ttyS24
+ - 457487 [info] Found ttyS25
+ - 457487 [info] Found ttyS26
+ - 457487 [info] Found ttyS27
+ - 457487 [info] Found ttyS28
+ - 457487 [info] Found ttyS29
+ - 457487 [info] Found ttyS3
+ - 457487 [info] Found ttyS30
+ - 457487 [info] Found ttyS31
+ - 457487 [info] Found ttyS5
+ - 457487 [info] Found ttyS6
+ - 457487 [info] Found ttyS7
+ - 457487 [info] Found ttyS8
+ - 457487 [info] Found ttyS9
+ - 457487 [info] Found ttyS0
+ - 457487 [info] Using ttyUSB0
+ - 457487 [info] Port ttyUSB0
+ - 457487 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 457487 [info] Sectors to upload: 19
+ - 457487 [info] File size bytes: 1241804
+ - 501149 [info] Starting STUMP Loader
+ - 501149 [info] No serial port specified
+ - 501149 [info] Searching for ports...
+ - 501149 [info] Found ttyUSB0
+ - 501149 [info] Found ttyS4
+ - 501149 [info] Found ttyS1
+ - 501149 [info] Found ttyS10
+ - 501149 [info] Found ttyS11
+ - 501149 [info] Found ttyS12
+ - 501149 [info] Found ttyS13
+ - 501149 [info] Found ttyS14
+ - 501149 [info] Found ttyS15
+ - 501149 [info] Found ttyS16
+ - 501149 [info] Found ttyS17
+ - 501149 [info] Found ttyS18
+ - 501149 [info] Found ttyS19
+ - 501149 [info] Found ttyS2
+ - 501149 [info] Found ttyS20
+ - 501149 [info] Found ttyS21
+ - 501149 [info] Found ttyS22
+ - 501149 [info] Found ttyS23
+ - 501149 [info] Found ttyS24
+ - 501149 [info] Found ttyS25
+ - 501149 [info] Found ttyS26
+ - 501149 [info] Found ttyS27
+ - 501149 [info] Found ttyS28
+ - 501149 [info] Found ttyS29
+ - 501149 [info] Found ttyS3
+ - 501149 [info] Found ttyS30
+ - 501149 [info] Found ttyS31
+ - 501149 [info] Found ttyS5
+ - 501149 [info] Found ttyS6
+ - 501149 [info] Found ttyS7
+ - 501149 [info] Found ttyS8
+ - 501149 [info] Found ttyS9
+ - 501149 [info] Found ttyS0
+ - 501149 [info] Using ttyUSB0
+ - 501149 [info] Port ttyUSB0
+ - 501149 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 501149 [info] Sectors to upload: 19
+ - 501149 [info] File size bytes: 1241804
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 32 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 33 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 34 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 35 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 36 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 37 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 38 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 39 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 40 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 41 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 42 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 43 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 44 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 45 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 46 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 47 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 48 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 49 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Board said: R
+ - 501149 [info] Writing sector 50 total size 65537
+ - 501149 [info] Board said: P
+ - 501149 [info] Starting warm boot 
+ - 1726786 [info] Starting STUMP Loader
+ - 1726786 [info] No serial port specified
+ - 1726786 [info] Searching for ports...
+ - 1726786 [info] Found ttyUSB0
+ - 1726786 [info] Found ttyS4
+ - 1726786 [info] Found ttyS1
+ - 1726786 [info] Found ttyS10
+ - 1726786 [info] Found ttyS11
+ - 1726786 [info] Found ttyS12
+ - 1726786 [info] Found ttyS13
+ - 1726786 [info] Found ttyS14
+ - 1726786 [info] Found ttyS15
+ - 1726786 [info] Found ttyS16
+ - 1726786 [info] Found ttyS17
+ - 1726786 [info] Found ttyS18
+ - 1726786 [info] Found ttyS19
+ - 1726786 [info] Found ttyS2
+ - 1726786 [info] Found ttyS20
+ - 1726786 [info] Found ttyS21
+ - 1726786 [info] Found ttyS22
+ - 1726786 [info] Found ttyS23
+ - 1726786 [info] Found ttyS24
+ - 1726786 [info] Found ttyS25
+ - 1726786 [info] Found ttyS26
+ - 1726786 [info] Found ttyS27
+ - 1726786 [info] Found ttyS28
+ - 1726786 [info] Found ttyS29
+ - 1726786 [info] Found ttyS3
+ - 1726786 [info] Found ttyS30
+ - 1726786 [info] Found ttyS31
+ - 1726786 [info] Found ttyS5
+ - 1726786 [info] Found ttyS6
+ - 1726786 [info] Found ttyS7
+ - 1726786 [info] Found ttyS8
+ - 1726786 [info] Found ttyS9
+ - 1726786 [info] Found ttyS0
+ - 1726786 [info] Using ttyUSB0
+ - 1726786 [info] Port ttyUSB0
+ - 1726786 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 1726786 [info] Sectors to upload: 19
+ - 1726786 [info] File size bytes: 1241804
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 32 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 33 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 34 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 35 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 36 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 37 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 38 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 39 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 40 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 41 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 42 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 43 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 44 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 45 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 46 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 47 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 48 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 49 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Board said: R
+ - 1726786 [info] Writing sector 50 total size 65537
+ - 1726786 [info] Board said: P
+ - 1726786 [info] Starting warm boot 
+ - 1806132 [info] Starting STUMP Loader
+ - 1806132 [info] No serial port specified
+ - 1806132 [info] Searching for ports...
+ - 1806132 [info] Found ttyUSB0
+ - 1806132 [info] Found ttyS4
+ - 1806132 [info] Found ttyS1
+ - 1806132 [info] Found ttyS10
+ - 1806132 [info] Found ttyS11
+ - 1806132 [info] Found ttyS12
+ - 1806132 [info] Found ttyS13
+ - 1806132 [info] Found ttyS14
+ - 1806132 [info] Found ttyS15
+ - 1806132 [info] Found ttyS16
+ - 1806132 [info] Found ttyS17
+ - 1806132 [info] Found ttyS18
+ - 1806132 [info] Found ttyS19
+ - 1806132 [info] Found ttyS2
+ - 1806132 [info] Found ttyS20
+ - 1806132 [info] Found ttyS21
+ - 1806132 [info] Found ttyS22
+ - 1806132 [info] Found ttyS23
+ - 1806132 [info] Found ttyS24
+ - 1806132 [info] Found ttyS25
+ - 1806132 [info] Found ttyS26
+ - 1806132 [info] Found ttyS27
+ - 1806132 [info] Found ttyS28
+ - 1806132 [info] Found ttyS29
+ - 1806132 [info] Found ttyS3
+ - 1806132 [info] Found ttyS30
+ - 1806132 [info] Found ttyS31
+ - 1806132 [info] Found ttyS5
+ - 1806132 [info] Found ttyS6
+ - 1806132 [info] Found ttyS7
+ - 1806132 [info] Found ttyS8
+ - 1806132 [info] Found ttyS9
+ - 1806132 [info] Found ttyS0
+ - 1806132 [info] Using ttyUSB0
+ - 1806132 [info] Port ttyUSB0
+ - 1806132 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 1806132 [info] Sectors to upload: 19
+ - 1806132 [info] File size bytes: 1241804
+ - 1808608 [info] Starting STUMP Loader
+ - 1808608 [info] No serial port specified
+ - 1808608 [info] Searching for ports...
+ - 1808608 [info] Found ttyUSB0
+ - 1808608 [info] Found ttyS4
+ - 1808608 [info] Found ttyS1
+ - 1808608 [info] Found ttyS10
+ - 1808608 [info] Found ttyS11
+ - 1808608 [info] Found ttyS12
+ - 1808608 [info] Found ttyS13
+ - 1808608 [info] Found ttyS14
+ - 1808608 [info] Found ttyS15
+ - 1808608 [info] Found ttyS16
+ - 1808608 [info] Found ttyS17
+ - 1808608 [info] Found ttyS18
+ - 1808608 [info] Found ttyS19
+ - 1808608 [info] Found ttyS2
+ - 1808608 [info] Found ttyS20
+ - 1808608 [info] Found ttyS21
+ - 1808608 [info] Found ttyS22
+ - 1808608 [info] Found ttyS23
+ - 1808608 [info] Found ttyS24
+ - 1808608 [info] Found ttyS25
+ - 1808608 [info] Found ttyS26
+ - 1808608 [info] Found ttyS27
+ - 1808608 [info] Found ttyS28
+ - 1808608 [info] Found ttyS29
+ - 1808608 [info] Found ttyS3
+ - 1808608 [info] Found ttyS30
+ - 1808608 [info] Found ttyS31
+ - 1808608 [info] Found ttyS5
+ - 1808608 [info] Found ttyS6
+ - 1808608 [info] Found ttyS7
+ - 1808608 [info] Found ttyS8
+ - 1808608 [info] Found ttyS9
+ - 1808608 [info] Found ttyS0
+ - 1808608 [info] Using ttyUSB0
+ - 1808608 [info] Port ttyUSB0
+ - 1808608 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 1808608 [info] Sectors to upload: 19
+ - 1808608 [info] File size bytes: 1241804
+ - 1853343 [info] Starting STUMP Loader
+ - 1853343 [info] No serial port specified
+ - 1853343 [info] Searching for ports...
+ - 1853343 [info] Found ttyUSB0
+ - 1853343 [info] Found ttyS4
+ - 1853343 [info] Found ttyS1
+ - 1853343 [info] Found ttyS10
+ - 1853343 [info] Found ttyS11
+ - 1853343 [info] Found ttyS12
+ - 1853343 [info] Found ttyS13
+ - 1853343 [info] Found ttyS14
+ - 1853343 [info] Found ttyS15
+ - 1853343 [info] Found ttyS16
+ - 1853343 [info] Found ttyS17
+ - 1853343 [info] Found ttyS18
+ - 1853343 [info] Found ttyS19
+ - 1853343 [info] Found ttyS2
+ - 1853343 [info] Found ttyS20
+ - 1853343 [info] Found ttyS21
+ - 1853343 [info] Found ttyS22
+ - 1853343 [info] Found ttyS23
+ - 1853343 [info] Found ttyS24
+ - 1853343 [info] Found ttyS25
+ - 1853343 [info] Found ttyS26
+ - 1853343 [info] Found ttyS27
+ - 1853343 [info] Found ttyS28
+ - 1853343 [info] Found ttyS29
+ - 1853343 [info] Found ttyS3
+ - 1853343 [info] Found ttyS30
+ - 1853343 [info] Found ttyS31
+ - 1853343 [info] Found ttyS5
+ - 1853343 [info] Found ttyS6
+ - 1853343 [info] Found ttyS7
+ - 1853343 [info] Found ttyS8
+ - 1853343 [info] Found ttyS9
+ - 1853343 [info] Found ttyS0
+ - 1853343 [info] Using ttyUSB0
+ - 1853343 [info] Port ttyUSB0
+ - 1853343 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 1853343 [info] Sectors to upload: 19
+ - 1853343 [info] File size bytes: 1241804
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 32 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 33 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 34 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 35 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 36 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 37 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 38 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 39 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 40 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 41 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 42 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 43 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 44 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 45 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 46 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 47 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 48 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 49 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Board said: R
+ - 1853343 [info] Writing sector 50 total size 65537
+ - 1853343 [info] Board said: P
+ - 1853343 [info] Starting warm boot 
+ - 1974221 [info] Starting STUMP Loader
+ - 1974221 [info] No serial port specified
+ - 1974221 [info] Searching for ports...
+ - 1974221 [info] Found ttyUSB0
+ - 1974221 [info] Found ttyS4
+ - 1974221 [info] Found ttyS1
+ - 1974221 [info] Found ttyS10
+ - 1974221 [info] Found ttyS11
+ - 1974221 [info] Found ttyS12
+ - 1974221 [info] Found ttyS13
+ - 1974221 [info] Found ttyS14
+ - 1974221 [info] Found ttyS15
+ - 1974221 [info] Found ttyS16
+ - 1974221 [info] Found ttyS17
+ - 1974221 [info] Found ttyS18
+ - 1974221 [info] Found ttyS19
+ - 1974221 [info] Found ttyS2
+ - 1974221 [info] Found ttyS20
+ - 1974221 [info] Found ttyS21
+ - 1974221 [info] Found ttyS22
+ - 1974221 [info] Found ttyS23
+ - 1974221 [info] Found ttyS24
+ - 1974221 [info] Found ttyS25
+ - 1974221 [info] Found ttyS26
+ - 1974221 [info] Found ttyS27
+ - 1974221 [info] Found ttyS28
+ - 1974221 [info] Found ttyS29
+ - 1974221 [info] Found ttyS3
+ - 1974221 [info] Found ttyS30
+ - 1974221 [info] Found ttyS31
+ - 1974221 [info] Found ttyS5
+ - 1974221 [info] Found ttyS6
+ - 1974221 [info] Found ttyS7
+ - 1974221 [info] Found ttyS8
+ - 1974221 [info] Found ttyS9
+ - 1974221 [info] Found ttyS0
+ - 1974221 [info] Using ttyUSB0
+ - 1974221 [info] Port ttyUSB0
+ - 1974221 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 1974221 [info] Sectors to upload: 19
+ - 1974221 [info] File size bytes: 1241804
+ - 2015905 [info] Starting STUMP Loader
+ - 2015905 [info] No serial port specified
+ - 2015905 [info] Searching for ports...
+ - 2015905 [info] Found ttyUSB0
+ - 2015905 [info] Found ttyS4
+ - 2015905 [info] Found ttyS1
+ - 2015905 [info] Found ttyS10
+ - 2015905 [info] Found ttyS11
+ - 2015905 [info] Found ttyS12
+ - 2015905 [info] Found ttyS13
+ - 2015905 [info] Found ttyS14
+ - 2015905 [info] Found ttyS15
+ - 2015905 [info] Found ttyS16
+ - 2015905 [info] Found ttyS17
+ - 2015905 [info] Found ttyS18
+ - 2015905 [info] Found ttyS19
+ - 2015905 [info] Found ttyS2
+ - 2015905 [info] Found ttyS20
+ - 2015905 [info] Found ttyS21
+ - 2015905 [info] Found ttyS22
+ - 2015905 [info] Found ttyS23
+ - 2015905 [info] Found ttyS24
+ - 2015905 [info] Found ttyS25
+ - 2015905 [info] Found ttyS26
+ - 2015905 [info] Found ttyS27
+ - 2015905 [info] Found ttyS28
+ - 2015905 [info] Found ttyS29
+ - 2015905 [info] Found ttyS3
+ - 2015905 [info] Found ttyS30
+ - 2015905 [info] Found ttyS31
+ - 2015905 [info] Found ttyS5
+ - 2015905 [info] Found ttyS6
+ - 2015905 [info] Found ttyS7
+ - 2015905 [info] Found ttyS8
+ - 2015905 [info] Found ttyS9
+ - 2015905 [info] Found ttyS0
+ - 2015905 [info] Using ttyUSB0
+ - 2015905 [info] Port ttyUSB0
+ - 2015905 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2015905 [info] Sectors to upload: 19
+ - 2015905 [info] File size bytes: 1241804
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 32 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 33 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 34 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 35 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 36 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 37 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 38 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 39 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 40 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 41 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 42 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 43 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 44 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 45 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 46 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 47 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 48 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 49 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Board said: R
+ - 2015905 [info] Writing sector 50 total size 65537
+ - 2015905 [info] Board said: P
+ - 2015905 [info] Starting warm boot 
+ - 2081678 [info] Starting STUMP Loader
+ - 2081678 [info] No serial port specified
+ - 2081678 [info] Searching for ports...
+ - 2081678 [info] Found ttyUSB0
+ - 2081678 [info] Found ttyS4
+ - 2081678 [info] Found ttyS1
+ - 2081678 [info] Found ttyS10
+ - 2081678 [info] Found ttyS11
+ - 2081678 [info] Found ttyS12
+ - 2081678 [info] Found ttyS13
+ - 2081678 [info] Found ttyS14
+ - 2081678 [info] Found ttyS15
+ - 2081678 [info] Found ttyS16
+ - 2081678 [info] Found ttyS17
+ - 2081678 [info] Found ttyS18
+ - 2081678 [info] Found ttyS19
+ - 2081678 [info] Found ttyS2
+ - 2081678 [info] Found ttyS20
+ - 2081678 [info] Found ttyS21
+ - 2081678 [info] Found ttyS22
+ - 2081678 [info] Found ttyS23
+ - 2081678 [info] Found ttyS24
+ - 2081678 [info] Found ttyS25
+ - 2081678 [info] Found ttyS26
+ - 2081678 [info] Found ttyS27
+ - 2081678 [info] Found ttyS28
+ - 2081678 [info] Found ttyS29
+ - 2081678 [info] Found ttyS3
+ - 2081678 [info] Found ttyS30
+ - 2081678 [info] Found ttyS31
+ - 2081678 [info] Found ttyS5
+ - 2081678 [info] Found ttyS6
+ - 2081678 [info] Found ttyS7
+ - 2081678 [info] Found ttyS8
+ - 2081678 [info] Found ttyS9
+ - 2081678 [info] Found ttyS0
+ - 2081678 [info] Using ttyUSB0
+ - 2081678 [info] Port ttyUSB0
+ - 2081678 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2081678 [info] Sectors to upload: 19
+ - 2081678 [info] File size bytes: 1241804
+ - 2082455 [info] Starting STUMP Loader
+ - 2082455 [info] No serial port specified
+ - 2082455 [info] Searching for ports...
+ - 2082455 [info] Found ttyUSB0
+ - 2082455 [info] Found ttyS4
+ - 2082455 [info] Found ttyS1
+ - 2082455 [info] Found ttyS10
+ - 2082455 [info] Found ttyS11
+ - 2082455 [info] Found ttyS12
+ - 2082455 [info] Found ttyS13
+ - 2082455 [info] Found ttyS14
+ - 2082455 [info] Found ttyS15
+ - 2082455 [info] Found ttyS16
+ - 2082455 [info] Found ttyS17
+ - 2082455 [info] Found ttyS18
+ - 2082455 [info] Found ttyS19
+ - 2082455 [info] Found ttyS2
+ - 2082455 [info] Found ttyS20
+ - 2082455 [info] Found ttyS21
+ - 2082455 [info] Found ttyS22
+ - 2082455 [info] Found ttyS23
+ - 2082455 [info] Found ttyS24
+ - 2082455 [info] Found ttyS25
+ - 2082455 [info] Found ttyS26
+ - 2082455 [info] Found ttyS27
+ - 2082455 [info] Found ttyS28
+ - 2082455 [info] Found ttyS29
+ - 2082455 [info] Found ttyS3
+ - 2082455 [info] Found ttyS30
+ - 2082455 [info] Found ttyS31
+ - 2082455 [info] Found ttyS5
+ - 2082455 [info] Found ttyS6
+ - 2082455 [info] Found ttyS7
+ - 2082455 [info] Found ttyS8
+ - 2082455 [info] Found ttyS9
+ - 2082455 [info] Found ttyS0
+ - 2082455 [info] Using ttyUSB0
+ - 2082455 [info] Port ttyUSB0
+ - 2082455 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2082455 [info] Sectors to upload: 19
+ - 2082455 [info] File size bytes: 1241804
+ - 2121610 [info] Starting STUMP Loader
+ - 2121610 [info] No serial port specified
+ - 2121610 [info] Searching for ports...
+ - 2121610 [info] Found ttyUSB0
+ - 2121610 [info] Found ttyS4
+ - 2121610 [info] Found ttyS1
+ - 2121610 [info] Found ttyS10
+ - 2121610 [info] Found ttyS11
+ - 2121610 [info] Found ttyS12
+ - 2121610 [info] Found ttyS13
+ - 2121610 [info] Found ttyS14
+ - 2121610 [info] Found ttyS15
+ - 2121610 [info] Found ttyS16
+ - 2121610 [info] Found ttyS17
+ - 2121610 [info] Found ttyS18
+ - 2121610 [info] Found ttyS19
+ - 2121610 [info] Found ttyS2
+ - 2121610 [info] Found ttyS20
+ - 2121610 [info] Found ttyS21
+ - 2121610 [info] Found ttyS22
+ - 2121610 [info] Found ttyS23
+ - 2121610 [info] Found ttyS24
+ - 2121610 [info] Found ttyS25
+ - 2121610 [info] Found ttyS26
+ - 2121610 [info] Found ttyS27
+ - 2121610 [info] Found ttyS28
+ - 2121610 [info] Found ttyS29
+ - 2121610 [info] Found ttyS3
+ - 2121610 [info] Found ttyS30
+ - 2121610 [info] Found ttyS31
+ - 2121610 [info] Found ttyS5
+ - 2121610 [info] Found ttyS6
+ - 2121610 [info] Found ttyS7
+ - 2121610 [info] Found ttyS8
+ - 2121610 [info] Found ttyS9
+ - 2121610 [info] Found ttyS0
+ - 2121610 [info] Using ttyUSB0
+ - 2121610 [info] Port ttyUSB0
+ - 2121610 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2121610 [info] Sectors to upload: 19
+ - 2121610 [info] File size bytes: 1241804
+ - 2122777 [info] Starting STUMP Loader
+ - 2122777 [info] No serial port specified
+ - 2122777 [info] Searching for ports...
+ - 2122777 [info] Found ttyUSB0
+ - 2122777 [info] Found ttyS4
+ - 2122777 [info] Found ttyS1
+ - 2122777 [info] Found ttyS10
+ - 2122777 [info] Found ttyS11
+ - 2122777 [info] Found ttyS12
+ - 2122777 [info] Found ttyS13
+ - 2122777 [info] Found ttyS14
+ - 2122777 [info] Found ttyS15
+ - 2122777 [info] Found ttyS16
+ - 2122777 [info] Found ttyS17
+ - 2122777 [info] Found ttyS18
+ - 2122777 [info] Found ttyS19
+ - 2122777 [info] Found ttyS2
+ - 2122777 [info] Found ttyS20
+ - 2122777 [info] Found ttyS21
+ - 2122777 [info] Found ttyS22
+ - 2122777 [info] Found ttyS23
+ - 2122777 [info] Found ttyS24
+ - 2122777 [info] Found ttyS25
+ - 2122777 [info] Found ttyS26
+ - 2122777 [info] Found ttyS27
+ - 2122777 [info] Found ttyS28
+ - 2122777 [info] Found ttyS29
+ - 2122777 [info] Found ttyS3
+ - 2122777 [info] Found ttyS30
+ - 2122777 [info] Found ttyS31
+ - 2122777 [info] Found ttyS5
+ - 2122777 [info] Found ttyS6
+ - 2122777 [info] Found ttyS7
+ - 2122777 [info] Found ttyS8
+ - 2122777 [info] Found ttyS9
+ - 2122777 [info] Found ttyS0
+ - 2122777 [info] Using ttyUSB0
+ - 2122777 [info] Port ttyUSB0
+ - 2122777 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2122777 [info] Sectors to upload: 19
+ - 2122777 [info] File size bytes: 1241804
+ - 2168831 [info] Starting STUMP Loader
+ - 2168831 [info] No serial port specified
+ - 2168831 [info] Searching for ports...
+ - 2168831 [info] Found ttyUSB0
+ - 2168831 [info] Found ttyS4
+ - 2168831 [info] Found ttyS1
+ - 2168831 [info] Found ttyS10
+ - 2168831 [info] Found ttyS11
+ - 2168831 [info] Found ttyS12
+ - 2168831 [info] Found ttyS13
+ - 2168831 [info] Found ttyS14
+ - 2168831 [info] Found ttyS15
+ - 2168831 [info] Found ttyS16
+ - 2168831 [info] Found ttyS17
+ - 2168831 [info] Found ttyS18
+ - 2168831 [info] Found ttyS19
+ - 2168831 [info] Found ttyS2
+ - 2168831 [info] Found ttyS20
+ - 2168831 [info] Found ttyS21
+ - 2168831 [info] Found ttyS22
+ - 2168831 [info] Found ttyS23
+ - 2168831 [info] Found ttyS24
+ - 2168831 [info] Found ttyS25
+ - 2168831 [info] Found ttyS26
+ - 2168831 [info] Found ttyS27
+ - 2168831 [info] Found ttyS28
+ - 2168831 [info] Found ttyS29
+ - 2168831 [info] Found ttyS3
+ - 2168831 [info] Found ttyS30
+ - 2168831 [info] Found ttyS31
+ - 2168831 [info] Found ttyS5
+ - 2168831 [info] Found ttyS6
+ - 2168831 [info] Found ttyS7
+ - 2168831 [info] Found ttyS8
+ - 2168831 [info] Found ttyS9
+ - 2168831 [info] Found ttyS0
+ - 2168831 [info] Using ttyUSB0
+ - 2168831 [info] Port ttyUSB0
+ - 2168831 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2168831 [info] Sectors to upload: 19
+ - 2168831 [info] File size bytes: 1241804
+ - 2171947 [info] Starting STUMP Loader
+ - 2171947 [info] No serial port specified
+ - 2171947 [info] Searching for ports...
+ - 2171947 [info] Found ttyUSB0
+ - 2171947 [info] Found ttyS4
+ - 2171947 [info] Found ttyS1
+ - 2171947 [info] Found ttyS10
+ - 2171947 [info] Found ttyS11
+ - 2171947 [info] Found ttyS12
+ - 2171947 [info] Found ttyS13
+ - 2171947 [info] Found ttyS14
+ - 2171947 [info] Found ttyS15
+ - 2171947 [info] Found ttyS16
+ - 2171947 [info] Found ttyS17
+ - 2171947 [info] Found ttyS18
+ - 2171947 [info] Found ttyS19
+ - 2171947 [info] Found ttyS2
+ - 2171947 [info] Found ttyS20
+ - 2171947 [info] Found ttyS21
+ - 2171947 [info] Found ttyS22
+ - 2171947 [info] Found ttyS23
+ - 2171947 [info] Found ttyS24
+ - 2171947 [info] Found ttyS25
+ - 2171947 [info] Found ttyS26
+ - 2171947 [info] Found ttyS27
+ - 2171947 [info] Found ttyS28
+ - 2171947 [info] Found ttyS29
+ - 2171947 [info] Found ttyS3
+ - 2171947 [info] Found ttyS30
+ - 2171947 [info] Found ttyS31
+ - 2171947 [info] Found ttyS5
+ - 2171947 [info] Found ttyS6
+ - 2171947 [info] Found ttyS7
+ - 2171947 [info] Found ttyS8
+ - 2171947 [info] Found ttyS9
+ - 2171947 [info] Found ttyS0
+ - 2171947 [info] Using ttyUSB0
+ - 2171947 [info] Port ttyUSB0
+ - 2171947 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2171947 [info] Sectors to upload: 19
+ - 2171947 [info] File size bytes: 1241804
+ - 2217936 [info] Starting STUMP Loader
+ - 2217936 [info] No serial port specified
+ - 2217936 [info] Searching for ports...
+ - 2217936 [info] Found ttyUSB0
+ - 2217936 [info] Found ttyS4
+ - 2217936 [info] Found ttyS1
+ - 2217936 [info] Found ttyS10
+ - 2217936 [info] Found ttyS11
+ - 2217936 [info] Found ttyS12
+ - 2217936 [info] Found ttyS13
+ - 2217936 [info] Found ttyS14
+ - 2217936 [info] Found ttyS15
+ - 2217936 [info] Found ttyS16
+ - 2217936 [info] Found ttyS17
+ - 2217936 [info] Found ttyS18
+ - 2217936 [info] Found ttyS19
+ - 2217936 [info] Found ttyS2
+ - 2217936 [info] Found ttyS20
+ - 2217936 [info] Found ttyS21
+ - 2217936 [info] Found ttyS22
+ - 2217936 [info] Found ttyS23
+ - 2217936 [info] Found ttyS24
+ - 2217936 [info] Found ttyS25
+ - 2217936 [info] Found ttyS26
+ - 2217936 [info] Found ttyS27
+ - 2217936 [info] Found ttyS28
+ - 2217936 [info] Found ttyS29
+ - 2217936 [info] Found ttyS3
+ - 2217936 [info] Found ttyS30
+ - 2217936 [info] Found ttyS31
+ - 2217936 [info] Found ttyS5
+ - 2217936 [info] Found ttyS6
+ - 2217936 [info] Found ttyS7
+ - 2217936 [info] Found ttyS8
+ - 2217936 [info] Found ttyS9
+ - 2217936 [info] Found ttyS0
+ - 2217936 [info] Using ttyUSB0
+ - 2217936 [info] Port ttyUSB0
+ - 2217936 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2217936 [info] Sectors to upload: 19
+ - 2217936 [info] File size bytes: 1241804
+ - 2272776 [info] Starting STUMP Loader
+ - 2272776 [info] No serial port specified
+ - 2272776 [info] Searching for ports...
+ - 2272776 [info] Found ttyUSB0
+ - 2272776 [info] Found ttyS4
+ - 2272776 [info] Found ttyS1
+ - 2272776 [info] Found ttyS10
+ - 2272776 [info] Found ttyS11
+ - 2272776 [info] Found ttyS12
+ - 2272776 [info] Found ttyS13
+ - 2272776 [info] Found ttyS14
+ - 2272776 [info] Found ttyS15
+ - 2272776 [info] Found ttyS16
+ - 2272776 [info] Found ttyS17
+ - 2272776 [info] Found ttyS18
+ - 2272776 [info] Found ttyS19
+ - 2272776 [info] Found ttyS2
+ - 2272776 [info] Found ttyS20
+ - 2272776 [info] Found ttyS21
+ - 2272776 [info] Found ttyS22
+ - 2272776 [info] Found ttyS23
+ - 2272776 [info] Found ttyS24
+ - 2272776 [info] Found ttyS25
+ - 2272776 [info] Found ttyS26
+ - 2272776 [info] Found ttyS27
+ - 2272776 [info] Found ttyS28
+ - 2272776 [info] Found ttyS29
+ - 2272776 [info] Found ttyS3
+ - 2272776 [info] Found ttyS30
+ - 2272776 [info] Found ttyS31
+ - 2272776 [info] Found ttyS5
+ - 2272776 [info] Found ttyS6
+ - 2272776 [info] Found ttyS7
+ - 2272776 [info] Found ttyS8
+ - 2272776 [info] Found ttyS9
+ - 2272776 [info] Found ttyS0
+ - 2272776 [info] Using ttyUSB0
+ - 2272776 [info] Port ttyUSB0
+ - 2272776 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2272776 [info] Sectors to upload: 19
+ - 2272776 [info] File size bytes: 1241804
+ - 2313313 [info] Starting STUMP Loader
+ - 2313313 [info] No serial port specified
+ - 2313313 [info] Searching for ports...
+ - 2313313 [info] Found ttyUSB0
+ - 2313313 [info] Found ttyS4
+ - 2313313 [info] Found ttyS1
+ - 2313313 [info] Found ttyS10
+ - 2313313 [info] Found ttyS11
+ - 2313313 [info] Found ttyS12
+ - 2313313 [info] Found ttyS13
+ - 2313313 [info] Found ttyS14
+ - 2313313 [info] Found ttyS15
+ - 2313313 [info] Found ttyS16
+ - 2313313 [info] Found ttyS17
+ - 2313313 [info] Found ttyS18
+ - 2313313 [info] Found ttyS19
+ - 2313313 [info] Found ttyS2
+ - 2313313 [info] Found ttyS20
+ - 2313313 [info] Found ttyS21
+ - 2313313 [info] Found ttyS22
+ - 2313313 [info] Found ttyS23
+ - 2313313 [info] Found ttyS24
+ - 2313313 [info] Found ttyS25
+ - 2313313 [info] Found ttyS26
+ - 2313313 [info] Found ttyS27
+ - 2313313 [info] Found ttyS28
+ - 2313313 [info] Found ttyS29
+ - 2313313 [info] Found ttyS3
+ - 2313313 [info] Found ttyS30
+ - 2313313 [info] Found ttyS31
+ - 2313313 [info] Found ttyS5
+ - 2313313 [info] Found ttyS6
+ - 2313313 [info] Found ttyS7
+ - 2313313 [info] Found ttyS8
+ - 2313313 [info] Found ttyS9
+ - 2313313 [info] Found ttyS0
+ - 2313313 [info] Using ttyUSB0
+ - 2313313 [info] Port ttyUSB0
+ - 2313313 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2313313 [info] Sectors to upload: 19
+ - 2313313 [info] File size bytes: 1241804
+ - 2357682 [info] Starting STUMP Loader
+ - 2357682 [info] No serial port specified
+ - 2357682 [info] Searching for ports...
+ - 2357682 [info] Found ttyUSB0
+ - 2357682 [info] Found ttyS4
+ - 2357682 [info] Found ttyS1
+ - 2357682 [info] Found ttyS10
+ - 2357682 [info] Found ttyS11
+ - 2357682 [info] Found ttyS12
+ - 2357682 [info] Found ttyS13
+ - 2357682 [info] Found ttyS14
+ - 2357682 [info] Found ttyS15
+ - 2357682 [info] Found ttyS16
+ - 2357682 [info] Found ttyS17
+ - 2357682 [info] Found ttyS18
+ - 2357682 [info] Found ttyS19
+ - 2357682 [info] Found ttyS2
+ - 2357682 [info] Found ttyS20
+ - 2357682 [info] Found ttyS21
+ - 2357682 [info] Found ttyS22
+ - 2357682 [info] Found ttyS23
+ - 2357682 [info] Found ttyS24
+ - 2357682 [info] Found ttyS25
+ - 2357682 [info] Found ttyS26
+ - 2357682 [info] Found ttyS27
+ - 2357682 [info] Found ttyS28
+ - 2357682 [info] Found ttyS29
+ - 2357682 [info] Found ttyS3
+ - 2357682 [info] Found ttyS30
+ - 2357682 [info] Found ttyS31
+ - 2357682 [info] Found ttyS5
+ - 2357682 [info] Found ttyS6
+ - 2357682 [info] Found ttyS7
+ - 2357682 [info] Found ttyS8
+ - 2357682 [info] Found ttyS9
+ - 2357682 [info] Found ttyS0
+ - 2357682 [info] Using ttyUSB0
+ - 2357682 [info] Port ttyUSB0
+ - 2357682 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2357682 [info] Sectors to upload: 19
+ - 2357682 [info] File size bytes: 1241804
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 32 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 33 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 34 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 35 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 36 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 37 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 38 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 39 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 40 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 41 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 42 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 43 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 44 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 45 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 46 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 47 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 48 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 49 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Board said: R
+ - 2357682 [info] Writing sector 50 total size 65537
+ - 2357682 [info] Board said: P
+ - 2357682 [info] Starting warm boot 
+ - 2686868 [info] Starting STUMP Loader
+ - 2686868 [info] No serial port specified
+ - 2686868 [info] Searching for ports...
+ - 2686868 [info] Found ttyUSB0
+ - 2686868 [info] Found ttyS4
+ - 2686868 [info] Found ttyS1
+ - 2686868 [info] Found ttyS10
+ - 2686868 [info] Found ttyS11
+ - 2686868 [info] Found ttyS12
+ - 2686868 [info] Found ttyS13
+ - 2686868 [info] Found ttyS14
+ - 2686868 [info] Found ttyS15
+ - 2686868 [info] Found ttyS16
+ - 2686868 [info] Found ttyS17
+ - 2686868 [info] Found ttyS18
+ - 2686868 [info] Found ttyS19
+ - 2686868 [info] Found ttyS2
+ - 2686868 [info] Found ttyS20
+ - 2686868 [info] Found ttyS21
+ - 2686868 [info] Found ttyS22
+ - 2686868 [info] Found ttyS23
+ - 2686868 [info] Found ttyS24
+ - 2686868 [info] Found ttyS25
+ - 2686868 [info] Found ttyS26
+ - 2686868 [info] Found ttyS27
+ - 2686868 [info] Found ttyS28
+ - 2686868 [info] Found ttyS29
+ - 2686868 [info] Found ttyS3
+ - 2686868 [info] Found ttyS30
+ - 2686868 [info] Found ttyS31
+ - 2686868 [info] Found ttyS5
+ - 2686868 [info] Found ttyS6
+ - 2686868 [info] Found ttyS7
+ - 2686868 [info] Found ttyS8
+ - 2686868 [info] Found ttyS9
+ - 2686868 [info] Found ttyS0
+ - 2686868 [info] Using ttyUSB0
+ - 2686868 [info] Port ttyUSB0
+ - 2686868 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2686868 [info] Sectors to upload: 19
+ - 2686868 [info] File size bytes: 1241804
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 32 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 33 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 34 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 35 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 36 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 37 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 38 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 39 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 40 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 41 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 42 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 43 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 44 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 45 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 46 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 47 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 48 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 49 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Board said: R
+ - 2686868 [info] Writing sector 50 total size 65537
+ - 2686868 [info] Board said: P
+ - 2686868 [info] Starting warm boot 
+ - 2427905 [info] Starting STUMP Loader
+ - 2427905 [info] No serial port specified
+ - 2427905 [info] Searching for ports...
+ - 2427905 [info] Found ttyUSB0
+ - 2427905 [info] Found ttyS4
+ - 2427905 [info] Found ttyS1
+ - 2427905 [info] Found ttyS10
+ - 2427905 [info] Found ttyS11
+ - 2427905 [info] Found ttyS12
+ - 2427905 [info] Found ttyS13
+ - 2427905 [info] Found ttyS14
+ - 2427905 [info] Found ttyS15
+ - 2427905 [info] Found ttyS16
+ - 2427905 [info] Found ttyS17
+ - 2427905 [info] Found ttyS18
+ - 2427905 [info] Found ttyS19
+ - 2427905 [info] Found ttyS2
+ - 2427905 [info] Found ttyS20
+ - 2427905 [info] Found ttyS21
+ - 2427905 [info] Found ttyS22
+ - 2427905 [info] Found ttyS23
+ - 2427905 [info] Found ttyS24
+ - 2427905 [info] Found ttyS25
+ - 2427905 [info] Found ttyS26
+ - 2427905 [info] Found ttyS27
+ - 2427905 [info] Found ttyS28
+ - 2427905 [info] Found ttyS29
+ - 2427905 [info] Found ttyS3
+ - 2427905 [info] Found ttyS30
+ - 2427905 [info] Found ttyS31
+ - 2427905 [info] Found ttyS5
+ - 2427905 [info] Found ttyS6
+ - 2427905 [info] Found ttyS7
+ - 2427905 [info] Found ttyS8
+ - 2427905 [info] Found ttyS9
+ - 2427905 [info] Found ttyS0
+ - 2427905 [info] Using ttyUSB0
+ - 2427905 [info] Port ttyUSB0
+ - 2427905 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 2427905 [info] Sectors to upload: 19
+ - 2427905 [info] File size bytes: 1241804
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 32 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 33 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 34 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 35 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 36 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 37 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 38 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 39 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 40 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 41 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 42 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 43 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 44 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 45 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 46 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 47 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 48 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 49 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Board said: R
+ - 2427905 [info] Writing sector 50 total size 65537
+ - 2427905 [info] Board said: P
+ - 2427905 [info] Starting warm boot 
+ - 113208 [info] Starting STUMP Loader
+ - 113208 [info] No serial port specified
+ - 113208 [info] Searching for ports...
+ - 113208 [info] Found ttyUSB0
+ - 113208 [info] Found ttyS4
+ - 113208 [info] Found ttyS1
+ - 113208 [info] Found ttyS10
+ - 113208 [info] Found ttyS11
+ - 113208 [info] Found ttyS12
+ - 113208 [info] Found ttyS13
+ - 113208 [info] Found ttyS14
+ - 113208 [info] Found ttyS15
+ - 113208 [info] Found ttyS16
+ - 113208 [info] Found ttyS17
+ - 113208 [info] Found ttyS18
+ - 113208 [info] Found ttyS19
+ - 113208 [info] Found ttyS2
+ - 113208 [info] Found ttyS20
+ - 113208 [info] Found ttyS21
+ - 113208 [info] Found ttyS22
+ - 113208 [info] Found ttyS23
+ - 113208 [info] Found ttyS24
+ - 113208 [info] Found ttyS25
+ - 113208 [info] Found ttyS26
+ - 113208 [info] Found ttyS27
+ - 113208 [info] Found ttyS28
+ - 113208 [info] Found ttyS29
+ - 113208 [info] Found ttyS3
+ - 113208 [info] Found ttyS30
+ - 113208 [info] Found ttyS31
+ - 113208 [info] Found ttyS5
+ - 113208 [info] Found ttyS6
+ - 113208 [info] Found ttyS7
+ - 113208 [info] Found ttyS8
+ - 113208 [info] Found ttyS9
+ - 113208 [info] Found ttyS0
+ - 113208 [info] Using ttyUSB0
+ - 113208 [info] Port ttyUSB0
+ - 113208 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 113208 [info] Sectors to upload: 19
+ - 113208 [info] File size bytes: 1241804
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 32 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 33 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 34 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 35 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 36 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 37 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 38 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 39 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 40 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 41 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 42 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 43 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 44 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 45 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 46 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 47 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 48 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 49 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Board said: R
+ - 113208 [info] Writing sector 50 total size 65537
+ - 113208 [info] Board said: P
+ - 113208 [info] Starting warm boot 
+ - 218768 [info] Starting STUMP Loader
+ - 218768 [info] No serial port specified
+ - 218768 [info] Searching for ports...
+ - 218768 [info] Found ttyUSB1
+ - 218768 [info] Found ttyS4
+ - 218768 [info] Found ttyS1
+ - 218768 [info] Found ttyS10
+ - 218768 [info] Found ttyS11
+ - 218768 [info] Found ttyS12
+ - 218768 [info] Found ttyS13
+ - 218768 [info] Found ttyS14
+ - 218768 [info] Found ttyS15
+ - 218768 [info] Found ttyS16
+ - 218768 [info] Found ttyS17
+ - 218768 [info] Found ttyS18
+ - 218768 [info] Found ttyS19
+ - 218768 [info] Found ttyS2
+ - 218768 [info] Found ttyS20
+ - 218768 [info] Found ttyS21
+ - 218768 [info] Found ttyS22
+ - 218768 [info] Found ttyS23
+ - 218768 [info] Found ttyS24
+ - 218768 [info] Found ttyS25
+ - 218768 [info] Found ttyS26
+ - 218768 [info] Found ttyS27
+ - 218768 [info] Found ttyS28
+ - 218768 [info] Found ttyS29
+ - 218768 [info] Found ttyS3
+ - 218768 [info] Found ttyS30
+ - 218768 [info] Found ttyS31
+ - 218768 [info] Found ttyS5
+ - 218768 [info] Found ttyS6
+ - 218768 [info] Found ttyS7
+ - 218768 [info] Found ttyS8
+ - 218768 [info] Found ttyS9
+ - 218768 [info] Found ttyS0
+ - 218768 [info] Using ttyUSB1
+ - 218768 [info] Port ttyUSB1
+ - 218768 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 218768 [info] Sectors to upload: 19
+ - 218768 [info] File size bytes: 1241804
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 32 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 33 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 34 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 35 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 36 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 37 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 38 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 39 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 40 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 41 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 42 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 43 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 44 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 45 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 46 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 47 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 48 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 49 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Board said: R
+ - 218768 [info] Writing sector 50 total size 65537
+ - 218768 [info] Board said: P
+ - 218768 [info] Starting warm boot 
+ - 308802 [info] Starting STUMP Loader
+ - 308802 [info] No serial port specified
+ - 308802 [info] Searching for ports...
+ - 308802 [info] Found ttyUSB0
+ - 308802 [info] Found ttyS4
+ - 308802 [info] Found ttyS1
+ - 308802 [info] Found ttyS10
+ - 308802 [info] Found ttyS11
+ - 308802 [info] Found ttyS12
+ - 308802 [info] Found ttyS13
+ - 308802 [info] Found ttyS14
+ - 308802 [info] Found ttyS15
+ - 308802 [info] Found ttyS16
+ - 308802 [info] Found ttyS17
+ - 308802 [info] Found ttyS18
+ - 308802 [info] Found ttyS19
+ - 308802 [info] Found ttyS2
+ - 308802 [info] Found ttyS20
+ - 308802 [info] Found ttyS21
+ - 308802 [info] Found ttyS22
+ - 308802 [info] Found ttyS23
+ - 308802 [info] Found ttyS24
+ - 308802 [info] Found ttyS25
+ - 308802 [info] Found ttyS26
+ - 308802 [info] Found ttyS27
+ - 308802 [info] Found ttyS28
+ - 308802 [info] Found ttyS29
+ - 308802 [info] Found ttyS3
+ - 308802 [info] Found ttyS30
+ - 308802 [info] Found ttyS31
+ - 308802 [info] Found ttyS5
+ - 308802 [info] Found ttyS6
+ - 308802 [info] Found ttyS7
+ - 308802 [info] Found ttyS8
+ - 308802 [info] Found ttyS9
+ - 308802 [info] Found ttyS0
+ - 308802 [info] Using ttyUSB0
+ - 308802 [info] Port ttyUSB0
+ - 308802 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 308802 [info] Sectors to upload: 19
+ - 308802 [info] File size bytes: 1241804
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 32 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 33 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 34 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 35 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 36 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 37 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 38 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 39 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 40 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 41 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 42 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 43 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 44 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 45 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 46 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 47 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 48 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 49 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Board said: R
+ - 308802 [info] Writing sector 50 total size 65537
+ - 308802 [info] Board said: P
+ - 308802 [info] Starting warm boot 
+ - 393061 [info] Starting STUMP Loader
+ - 393061 [info] No serial port specified
+ - 393061 [info] Searching for ports...
+ - 393061 [info] Found ttyUSB0
+ - 393061 [info] Found ttyS4
+ - 393061 [info] Found ttyS1
+ - 393061 [info] Found ttyS10
+ - 393061 [info] Found ttyS11
+ - 393061 [info] Found ttyS12
+ - 393061 [info] Found ttyS13
+ - 393061 [info] Found ttyS14
+ - 393061 [info] Found ttyS15
+ - 393061 [info] Found ttyS16
+ - 393061 [info] Found ttyS17
+ - 393061 [info] Found ttyS18
+ - 393061 [info] Found ttyS19
+ - 393061 [info] Found ttyS2
+ - 393061 [info] Found ttyS20
+ - 393061 [info] Found ttyS21
+ - 393061 [info] Found ttyS22
+ - 393061 [info] Found ttyS23
+ - 393061 [info] Found ttyS24
+ - 393061 [info] Found ttyS25
+ - 393061 [info] Found ttyS26
+ - 393061 [info] Found ttyS27
+ - 393061 [info] Found ttyS28
+ - 393061 [info] Found ttyS29
+ - 393061 [info] Found ttyS3
+ - 393061 [info] Found ttyS30
+ - 393061 [info] Found ttyS31
+ - 393061 [info] Found ttyS5
+ - 393061 [info] Found ttyS6
+ - 393061 [info] Found ttyS7
+ - 393061 [info] Found ttyS8
+ - 393061 [info] Found ttyS9
+ - 393061 [info] Found ttyS0
+ - 393061 [info] Using ttyUSB0
+ - 393061 [info] Port ttyUSB0
+ - 393061 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 393061 [info] Sectors to upload: 19
+ - 393061 [info] File size bytes: 1241804
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 32 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 33 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 34 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 35 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 36 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 37 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 38 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 39 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 40 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 41 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 42 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 43 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 44 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 45 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 46 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 47 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 48 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 49 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Board said: R
+ - 393061 [info] Writing sector 50 total size 65537
+ - 393061 [info] Board said: P
+ - 393061 [info] Starting warm boot 
+ - 602791 [info] Starting STUMP Loader
+ - 602791 [info] No serial port specified
+ - 602791 [info] Searching for ports...
+ - 602791 [info] Found ttyUSB0
+ - 602791 [info] Found ttyS4
+ - 602791 [info] Found ttyS1
+ - 602791 [info] Found ttyS10
+ - 602791 [info] Found ttyS11
+ - 602791 [info] Found ttyS12
+ - 602791 [info] Found ttyS13
+ - 602791 [info] Found ttyS14
+ - 602791 [info] Found ttyS15
+ - 602791 [info] Found ttyS16
+ - 602791 [info] Found ttyS17
+ - 602791 [info] Found ttyS18
+ - 602791 [info] Found ttyS19
+ - 602791 [info] Found ttyS2
+ - 602791 [info] Found ttyS20
+ - 602791 [info] Found ttyS21
+ - 602791 [info] Found ttyS22
+ - 602791 [info] Found ttyS23
+ - 602791 [info] Found ttyS24
+ - 602791 [info] Found ttyS25
+ - 602791 [info] Found ttyS26
+ - 602791 [info] Found ttyS27
+ - 602791 [info] Found ttyS28
+ - 602791 [info] Found ttyS29
+ - 602791 [info] Found ttyS3
+ - 602791 [info] Found ttyS30
+ - 602791 [info] Found ttyS31
+ - 602791 [info] Found ttyS5
+ - 602791 [info] Found ttyS6
+ - 602791 [info] Found ttyS7
+ - 602791 [info] Found ttyS8
+ - 602791 [info] Found ttyS9
+ - 602791 [info] Found ttyS0
+ - 602791 [info] Using ttyUSB0
+ - 602791 [info] Port ttyUSB0
+ - 602791 [info] File /home/p86342et/Questa/COMP12111/synthesis/MU0_Board/MU0_Board.bin
+ - 602791 [info] Sectors to upload: 19
+ - 602791 [info] File size bytes: 1241804
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 32 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 33 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 34 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 35 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 36 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 37 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 38 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 39 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 40 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 41 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 42 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 43 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 44 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 45 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 46 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 47 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 48 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 49 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Board said: R
+ - 602791 [info] Writing sector 50 total size 65537
+ - 602791 [info] Board said: P
+ - 602791 [info] Starting warm boot 
